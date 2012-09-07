@@ -5,18 +5,18 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Eric Jones</title>
- <link href="http://erjjones.github.com/atom.xml" rel="self"/>
- <link href="http://erjjones.github.com/"/>
+ <link href="http://shawnewallace.github.com/atom.xml" rel="self"/>
+ <link href="http://shawnewallace.github.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://erjjones.github.com</id>
+ <id>http://shawnewallace.github.com</id>
  <author>
-   <name>Eric Jones</name>
+   <name>Shawn Wallace</name>
  </author>
  
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://erjjones.github.com{{ post.url }}"/>
+   <link href="http://shawnewallace.github.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://erjjones.github.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
