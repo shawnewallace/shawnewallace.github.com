@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Much Process Do We Need?
+title: How Much Process Do We Need
 year: 2010
 month: 10
 day: 17
