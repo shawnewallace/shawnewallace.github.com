@@ -6,7 +6,7 @@ tags: dotnet
 year: 2012
 month: 7
 day: 17
-published: true
+published: false
 summary: You do it once in a blue moon so here is a reminder for how to sign that third party assembly you added.
 ---
 
@@ -49,9 +49,9 @@ summary: You do it once in a blue moon so here is a reminder for how to sign tha
 		<div id="disqus_thread"></div>
 		<script type="text/javascript">
 			/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-			var disqus_shortname = 'ericjones'; // required: replace example with your forum shortname
+			var disqus_shortname = 'iminohio'; // required: replace example with your forum shortname
 			var disqus_identifier = '{{ page.url }}';
-			var disqus_url = 'http://erjjones.github.com{{ page.url }}';
+			var disqus_url = 'http://shawnewallace.github.com{{ page.url }}';
 			
 			/* * * DON'T EDIT BELOW THIS LINE * * */
 			(function() {
