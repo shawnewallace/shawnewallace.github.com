@@ -1,0 +1,12 @@
+---
+layout: post
+title: Automated Deployment with TFS 2010
+year: 2011
+month: 1
+day: 20
+comments: false
+categories: Team Foundation Server
+published: true
+---
+<div>
+  The automated/continuous deployment process can be performed in Team Foundation Server 2010 via MSBuild. We can tell MSBuild to ‘deploy on build’ which causes MSBuild to make a call to MSDeploy. To assist MSBuild in working with MSDeploy, we can specify parameters at Build Process Definition Time that are passed through to MSDeploy (see image)</div><a href="http://1.bp.blogspot.com/_PGI7uplJZmQ/TTc7pjKxaNI/AAAAAAAAAAM/c60lm9SKYRs/s1600/clip_image001.jpg" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img style="text-align: center; margin: 0px auto 10px; width: 263px; display: block; height: 207px; cursor: hand" id="BLOGGER_PHOTO_ID_5563981449640634578" border="0" alt="" src="http://1.bp.blogspot.com/_PGI7uplJZmQ/TTc7pjKxaNI/AAAAAAAAAAM/c60lm9SKYRs/s400/clip_image001.jpg" /></a>  <div>In the MSBuild argument property of the Build Process parameters, the following are parameters that were used to automate the deployment of a sample project . Notice the parameters that are to be passed to MSDeploy start with "MSDeploy*".</div> <div> </div> <div> </div> <div></div> <div><i><span class="Apple-style-span">/p:DeployOnBuild=True –&gt; tells MSBuild that it will need to build a deployment package</span></i></div> <div><i><span class="Apple-style-span">/p:Configuration=Debug –&gt; tells MSBuild which configuration to merge to the Web.config</span></i></div> <div><i><span class="Apple-style-span">/p:DeployTarget=MSDeployPublish –&gt; tells MSBuild to call MSDeploy for deployment</span></i></div> <div><i><span class="Apple-style-span">/p:MSDeployPublishMethod=RemoteAgent –&gt; tells MSDeploy how to perform the deployment</span></i></div> <div><i><span class="Apple-style-span">/p:MSDeployServiceUrl=http://[deployment target]/msdeployagentservice'' -&gt; tells MSDeploy who to talk to when doing a deployment</span></i></div> <div><i><span class="Apple-style-span">/p:username=username -&gt; user account for build/deploy process</span></i></div> <div><i><span class="Apple-style-span">/p:password=password</span></i></div> <div></div>

@@ -9,9 +9,17 @@ task :new do
   FileUtils.touch("drafts/#{name}.md")
 
   open("drafts/#{name}.md", 'a') do |f|
+    
     f.puts "---"
     f.puts "layout: post"
     f.puts "title: \"DRAFT: #{name}\""
+    f.puts "category: ???"
+    f.puts "tags: blog"
+    f.puts "year: #{Time.now.year}"
+    f.puts "month: #{Time.now.month}"
+    f.puts "day: #{Time.now.day}"
+    f.puts "published: false"
+    f.puts "summary: ???"
     f.puts "---"
   end
 end

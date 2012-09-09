@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Blog Post at GitHub.com
-category: Blogginb
+category: Blogging
 tags: blog 
 year: 2012
 month: 9
