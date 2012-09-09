@@ -9,6 +9,7 @@ comments: false
 categories: Cloud .NET Web Development Ruby on Rails Ruby Architecture Agile
 published: true
 tags: heroku mongodb mongoid ruby rails nosql
+summary: About the Centric Columbus BU project for the annual Camp I/O Conference.
 ---
 Each year Centric Consulting (the awesome company I work for) hosts a one day developer's conference called Camp I/O. &nbsp;This is truly a great event. &nbsp;The 2011 incarnation &nbsp;took the form of a contest in which teams were formed and a project was undertaken. &nbsp;There were lots of fabulous prizes and more importantly the 'geeks' of Centric were able to spend a day together. &nbsp;We live all over the midwest and on the east coast so this is rare. &nbsp;In all sincerity, Centric has a great community and a great group of technologists.<br />
 <br />
