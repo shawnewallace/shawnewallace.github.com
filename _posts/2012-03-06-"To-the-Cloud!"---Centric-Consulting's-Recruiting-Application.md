@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To the Cloud!" - Centric Consulting's Recruiting Application
+title: To the Cloud - Centric Consultings Recruiting Application
 year: 2012
 month: 3
 day: 6
