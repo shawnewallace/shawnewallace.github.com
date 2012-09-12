@@ -9,9 +9,9 @@ day: 9
 published: true
 ---
 
-On Friday, Sept. 14, I will be speaking on Behavior Driven Development (BDD) at the [Business Analysis Professional Development Day]("http://2012iibacolumbuspdd-eac2.eventbrite.com/") at The Conference Center at NorthPointe in Lewis Center, Ohio.
+On Friday, Sept. 14, I will be speaking on Behavior Driven Development (BDD) at the [Business Analysis Professional Development Day](http://2012iibacolumbuspdd-eac2.eventbrite.com) at The Conference Center at NorthPointe in Lewis Center, Ohio.
 
-The [Columbus Chapter]("http://columbusoh.iiba.org/") of the International Institute of Business Analysis (IIBA) is sponsoring the event.
+The [Columbus Chapter](http://columbusoh.iiba.org ) of the International Institute of Business Analysis (IIBA) is sponsoring the event.
 ######About Behavior Driven Development
 Gathering requirements is a challenging endeavor. Encoding them in such a way that they can be understood, managed, verifiable and used by multiple people with different backgrounds brings this endeavor to an art form.
 
