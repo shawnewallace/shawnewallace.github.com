@@ -2,3 +2,5 @@ auto: true
 markdown: rdiscount
 pygments: true
 permalink: /blog/:title
+paginate: 10
+exclude: ["lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp"]
