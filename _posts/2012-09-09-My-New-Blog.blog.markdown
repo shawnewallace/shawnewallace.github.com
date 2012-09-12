@@ -6,7 +6,7 @@ tags: blog
 year: 2012
 month: 9
 day: 9
-published: true
+published: false
 summary: Figuring out this new blogging engine.
 ---
 
