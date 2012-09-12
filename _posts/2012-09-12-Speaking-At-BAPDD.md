@@ -23,11 +23,11 @@ My presentation will introduce key BDD concepts and help get people started on t
 ######About the Business Analysis Professional Development Day
 Attendees will be exposed to a broad range of Business Analysis topics, vendors and software / tool demonstrations. CBAP’s will have the opportunity to earn 6 CDU’s; other professional credential holders (PMP, CSQA, CPA, etc.) may claim development units in accordance with applicable continuing education policies.
 
-Date: Friday, Sept. 14
+**Date:** Friday, Sept. 14
 
-Time: 7 a.m. to 5 p.m. (my talk is at 1 p.m.)
+**Time:** 7 a.m. to 5 p.m. (my talk is at 1 p.m.)
 
-Location:
+**Location:**
 	
 	The Conference Center at Northpointe
 	 	100 Green Meadows Dr.South
