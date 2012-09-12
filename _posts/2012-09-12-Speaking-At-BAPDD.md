@@ -20,7 +20,7 @@ Behavior Driven Development (BDD) is an outside-in software development approach
 My presentation will introduce key BDD concepts and help get people started on their own BDD path.
 
 ######About the Business Analysis Professional Development Day
-Attendees will be exposed to a broad range of Business Analysis topics, vendors and software / tool demonstrations. CBAP’s will have the opportunity to earn 6 CDU’s; other professional credential holders (PMP, CSQA, CPA, etc.) may claim development units in accordance with applicable continuing education policies.
+	Attendees will be exposed to a broad range of Business Analysis topics, vendors and software / tool demonstrations. CBAP’s will have the opportunity to earn 6 CDU’s; other professional credential holders (PMP, CSQA, CPA, etc.) may claim development units in accordance with applicable continuing education policies.
 
 **Date:** Friday, Sept. 14
 
