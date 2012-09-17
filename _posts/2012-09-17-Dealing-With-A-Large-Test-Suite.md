@@ -40,7 +40,7 @@ Our testing effort is divided in four distinct layers.  The number of tests in e
  
 These testing classifications have been written about extensively.  You can keep your test suite as fast as it can be by observing the ratios.  Write many more unit tests than integration tests.
 
-Spread your long-running functional test run across multiple machines to ensure that feeback is timely.  We have a 60+ hour test run that we spread across 20 machines.  Our full-suite of functional tests run in about 10 hours.  The teams have their test output feedback when they come in the next day.
+Spread your long-running functional test run across multiple machines to ensure that feeback is timely.  We have a 240+ hour test run that we spread across 20 machines.  Our full-suite of functional tests run in about 12 hours.  The teams have their test output feedback when they come in the next day.
 	
 ####Get your test results in a database
 Lot's of tests generate LOT'S of output.  The standard HTML output from some of these test platforms can be hard to process.  Put your tests in a database.  This makes them easier to process and look for patterns of success or failure.  There can be lots of noise in test result output.  Getting it in a database will help you deal with it.  You will be able to find the important output and find ways to ignore the cruft and find the _real_ problems.
