@@ -8,7 +8,7 @@ month: 9
 day: 17
 published: true
 ---
-You have spent quite a bit of blod and treasure building unit, integration and automated functional testing on your project.  You take a look back and now you have 30,000 unit and coded integration tests and 1,500 cucumber features with 4,500 scenarios.  This number of tests provides an enormous amount of feedback.  Dealing with this feedback can be quite the job if it is not handled correctly.
+You have spent quite a bit of blood and treasure building unit, integration and automated functional testing on your project.  You take a look back and now you have 30,000 unit and coded integration tests and 1,500 cucumber features with 4,500 scenarios.  This number of tests provides an enormous amount of feedback.  Dealing with this feedback can be quite the job if it is not handled correctly.
 
 We are experiencing a similar problem on the project on which I am currently working.  If only two percent of all of our tests experience some kind of problem in our functional test suite alone, it creates a half-day's work for two or three team members.  Each test must be manually executed and the output decoded.   There are many reasons why a test can fail but not all are bad or reproducible.  These possible questions must be answered:
 
