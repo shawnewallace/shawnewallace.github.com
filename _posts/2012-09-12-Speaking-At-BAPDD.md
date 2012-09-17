@@ -5,7 +5,7 @@ category: Blogging Speaking bapdd
 tags: blog agile
 year: 2012
 month: 9
-day: 9
+day: 12
 published: true
 ---
 
