@@ -5,7 +5,7 @@ category: Blogging Testing
 tags: blog agile tdd atdd
 year: 2012
 month: 9
-day: 13
+day: 17
 published: true
 ---
 You have spent quite a bit of blod and treasure building unit, integration and automated functional testing on your project.  You take a look back and now you have 30,000 unit and coded integration tests and 1,500 cucumber features with 4,500 scenarios.  This number of tests provides an enormous amount of feedback.  Dealing with this feedback can be quite the job if it is not handled correctly.
