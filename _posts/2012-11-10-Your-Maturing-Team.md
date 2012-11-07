@@ -5,7 +5,7 @@ category: Blogging
 tags: centric
 year: 2012
 month: 11
-day: 01
+day: 10
 published: false
 ---
 
