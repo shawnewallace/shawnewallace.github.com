@@ -9,10 +9,14 @@ day: 01
 published: false
 ---
 
-What to improve on.
+>We're pretty good, but we need to get better.
+
+##We Still Have Pain
+
 * Better Craftsmanship
 
-Mature process
+##Mature process
+
 * True Test First
 * Better Engineering to support OOP and testing.
 * Roll in Reporting to Show Emphasis
