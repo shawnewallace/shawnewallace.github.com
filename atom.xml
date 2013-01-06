@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Shawn Wallace Blog</title>
-  <link href="http://shawnewallace.com/atom.xml" rel="self"/>
-  <link href="http://shawnewallace.com/"/>
+  <link href="http://blog.shawnewallace.com/atom.xml" rel="self"/>
+  <link href="http://blog.shawnewallace.com/"/>
   <updated>{{site.time | date_to_xmlschema }}</updated>
   <id>http://shawnewallace.com/</id>
   <author>
@@ -16,7 +16,7 @@ layout: nil
   {% for post in site.posts %}
   <entry>
     <title>{{ post.title }}</title>
-    <link href="http://shawnewallace.com"/>
+    <link href="http://blog.shawnewallace.com"/>
     <updated>{{post.date | date_to_xmlschema }}</updated>
     <id>http://codeography.com{{ post.id }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
