@@ -8,7 +8,7 @@ month: 11
 day: 15
 published: true
 ---
-[REVISED 20121116 due to invluable editing from a colleague.  I'm a poor writer.]
+[REVISED 20121116 due to invaluable editing from a colleague.  I'm a poor writer.]
 
 My high school offensive line coach always told us:
 
