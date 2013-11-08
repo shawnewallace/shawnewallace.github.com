@@ -21,7 +21,7 @@ Since August 2010, he has been with Centric Consulting's Columbus Business Unit.
 Key competencies include: business analysis, software development and architecture, planning, strategy, standardization, process re-engineering 
 
 ###Core technologies
-Microsoft .NET (inlcuding MVC), Internet Technologies and Architectures (JSON, XML, HTML, Javascript, ReST, etc.), DBMS (NoSQL, SQL Server and Oracle), CRM, Voice over IP
+Microsoft .NET (inlcuding MVC), Internet Technologies and Architectures, DBMS (NoSQL, SQL Server), CRM, Voice over IP, Ruby, Ruby on Rails, Objective-C and iOS
 
 ###Experience
 ---
