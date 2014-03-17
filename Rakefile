@@ -27,7 +27,7 @@ end
 
 desc "Startup Jekyll"
 task :start do
-  sh "jekyll --server"
+  sh "jekyll server"
 end
 
 task :default => :start
