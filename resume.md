@@ -1,4 +1,10 @@
-#Shawn Wallace
+---
+layout: default
+title: Resume
+---
+
+
+#Shawn E. Wallace
 
 	4766 Haughn Road
 	Grove City, Ohio 43123
