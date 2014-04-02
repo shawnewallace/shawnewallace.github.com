@@ -8,7 +8,7 @@ month: 04
 day: 08
 published: true
 summary:  An open letter to our church family.
-date: 2014-04-08 08:00:00
+date: 2014-04-01 08:00:00
 ---
 This is not a technical or IT related post.  It is a very personal letter to a congregation of people I have been associated with since I was 5 years old.
 
