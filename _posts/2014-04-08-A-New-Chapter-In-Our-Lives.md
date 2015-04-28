@@ -6,7 +6,7 @@ tags: personal
 year: 2014
 month: 04
 day: 08
-published: true
+published: false
 summary:  An open letter to our church family.
 date: 2014-04-08 05:00:00
 ---
