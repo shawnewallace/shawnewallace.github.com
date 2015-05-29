@@ -12,7 +12,6 @@ title: Resume
 	(614) 270-1600
 
 ##Summary
----
 Since 1992 Shawn Wallace has been supporting business practices as a software developer, architect, project manager and entrepreneur.
 
 In 1998 he was a founding partner of Symeron Software, Inc. as a web based Client Relationship Management/Salesforce Automation tool supporting car dealerships. As Symeron's Chief Technical Officer, Shawn assembled a development team and built AutoClick.com from the ground up. While there he also supported the company infrastructure and sales organization and forged strategic business relationships with a wide variety of organizations including banks and automobile manufacturers.
@@ -29,8 +28,7 @@ Key competencies include: business analysis, software development and architectu
 ###Core technologies
 Microsoft .NET (inlcuding MVC), Internet Technologies and Architectures, DBMS (NoSQL, SQL Server), CRM, Voice over IP, Ruby, Ruby on Rails, Objective-C and iOS
 
-###Experience
----
+##Experience
 ####Senior Architect, Centric Consulting
 August 2010 – Present
 
