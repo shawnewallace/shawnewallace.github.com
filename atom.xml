@@ -1,12 +1,11 @@
 ---
-layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Shawn Wallace Blog</title>
-  <link href="http://blog.shawnewallace.com/atom.xml" rel="self"/>
-  <link href="http://blog.shawnewallace.com/"/>
+  <link href="http://www.shawnewallace.com/atom.xml" rel="self"/>
+  <link href="http://www.shawnewallace.com/"/>
   <updated>{{site.time | date_to_xmlschema }}</updated>
   <id>http://shawnewallace.com/</id>
   <author>

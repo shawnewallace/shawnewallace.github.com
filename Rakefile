@@ -27,7 +27,7 @@ end
 
 desc "Startup Jekyll"
 task :start do
-  sh "jekyll server"
+  sh "bundle exec jekyll server --watch"
 end
 
 task :default => :start
