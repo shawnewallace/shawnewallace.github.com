@@ -12,7 +12,7 @@ summary:  How to download the run the supplied source code for MIS4200
 date: 2015-10-13 08:00:00
 ---
 
-Below is a link to the 'Quick Start' tutorial on YouTube. This process will walk you through the setting up of your personal repository and importing the supplied code to where you will be doing your work.
+Below is a link to the '[Quick Start](https://www.youtube.com/watch?v=X0Va6lopd9c)' tutorial on YouTube. This process will walk you through the setting up of your personal repository and importing the supplied code to where you will be doing your work.
 
 The following steps will be demonstrated
 
