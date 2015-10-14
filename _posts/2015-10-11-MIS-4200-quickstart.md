@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Current Sesstion Ohio University MIS 4200 Quick Start
+title: Ohio University MIS 4200 Quick Start
 category: Blogging
 author: Shawn Wallace
 tags: education
