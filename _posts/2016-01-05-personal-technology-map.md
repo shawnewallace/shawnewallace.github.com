@@ -7,7 +7,7 @@ year: 2016
 month: 01
 day: 05
 published: true
-summary:  How to download the run the supplied source code for MIS4200
+summary:  This is an accounting of the tools I use to help me be more productive.
 date: 2016-01-05 08:00:00
 ---
 
