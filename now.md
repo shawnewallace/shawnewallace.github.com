@@ -7,7 +7,7 @@ header-img: "img/about-bg.jpg"
 
 #### I am...
 
-* One
+* Working with [Columbus State Community College](http://cscc.edu) on new Computer Science curriculum.
 * Two
 * Three
 
