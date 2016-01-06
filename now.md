@@ -9,7 +9,7 @@ header-img: "img/about-bg.jpg"
 
 * Working with [Columbus State Community College](http://cscc.edu) on new Computer Science curriculum.
 * Working at [Centric Consulting](http://www.centricconsulting.com)
-* Preparing for [CodeMash](http://codemash.org)
+* At [CodeMash](http://codemash.org)!
 
 #### And...
 
