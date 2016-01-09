@@ -2,16 +2,15 @@
 layout: post
 title: Personal Technology Map
 category: Blogging
-tags:tools
 author: Shawn Wallace
+tags: productivity technology
 year: 2016
 month: 01
-day: 05
+day: 09
 published: true
-summary: This is an accounting of the tools I use to help me be more productive.
-date: 2016-01-05 08:00:00
+summary:  My personal technology suite of tools
+date: 2016-01-09 08:00:00
 ---
-
 # Personal Technolgy and Tools Map (updated)
 
 It's tough keeping track of the tools that I use. My goal is to keep this updated with the current tooling in my personal technology map. It is ever evolving.
