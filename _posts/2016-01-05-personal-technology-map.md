@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Personal Technology Map"
+title: Personal Technology Map
+category: Blogging
 tags:tools technology
 author: Shawn Wallace
 year: 2016
@@ -56,4 +57,3 @@ It's tough keeping track of the tools that I use. My goal is to keep this update
 
 * Evernote
 * Mac Notes
-
