@@ -14,7 +14,7 @@ date: 2016-01-05 08:00:00
 
 # Personal Technolgy and Tools Map (updated)
 
-It's tough keeping track of the tools that I use. My goal is to keep this updated with the current tooling in my personal technology map.
+It's tough keeping track of the tools that I use. My goal is to keep this updated with the current tooling in my personal technology map. It is ever evolving.
 
 ## Hardware
 
