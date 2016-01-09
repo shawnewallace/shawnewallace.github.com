@@ -2,13 +2,13 @@
 layout: post
 title: Personal Technology Map
 category: Blogging
-tags:tools technology
+tags:tools
 author: Shawn Wallace
 year: 2016
 month: 01
 day: 05
 published: true
-summary:  This is an accounting of the tools I use to help me be more productive.
+summary: This is an accounting of the tools I use to help me be more productive.
 date: 2016-01-05 08:00:00
 ---
 
