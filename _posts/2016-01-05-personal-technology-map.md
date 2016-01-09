@@ -6,10 +6,10 @@ author: Shawn Wallace
 tags: productivity technology
 year: 2016
 month: 01
-day: 09
+day: 08
 published: true
 summary:  My personal technology suite of tools
-date: 2016-01-09 08:00:00
+date: 2016-01-08 08:00:00
 ---
 # Personal Technolgy and Tools Map (updated)
 
