@@ -10,7 +10,7 @@ github_username:  shawnewallace
 facebook_username:  shawn.wallace
 linkedin_username: shawnwallace
 
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
 permalink: pretty #/blog/:title
 paginate: 10

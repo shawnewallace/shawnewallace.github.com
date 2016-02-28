@@ -6,9 +6,9 @@ desc "Draft a new post"
 task :new do
   puts "What should we call this post for now?"
   name = STDIN.gets.chomp
-  FileUtils.touch("drafts/#{name}.md")
+  FileUtils.touch("_drafts/#{name}.md")
 
-  open("drafts/#{name}.md", 'a') do |f|
+  open("_drafts/#{name}.md", 'a') do |f|
     
     f.puts "---"
     f.puts "layout: post"
@@ -29,6 +29,12 @@ desc "Startup Jekyll"
 task :start do
   sh "bundle exec jekyll server --watch"
 end
+
+desc "Startup Jekyll with drafts"
+task :draft do
+  sh "bundle exec jekyll server --watch --drafts"
+end
+
 
 task :default => :start
 
