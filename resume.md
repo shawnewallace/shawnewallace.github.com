@@ -15,7 +15,7 @@ In July 2007 he was recruited to Allen, Williams & Hughes, Co. as Director of Co
 
 In 2008, Shawn joined the team at Heuristic Solutions as a Solutions Architect.
 
-Since August 2010, he has been with Centric Consulting's Columbus Business Unit. In early 2012 he began leading their Application Lifecycle Management and Application Development National Service Offerings.
+Since August 2010, he has been with Centric Consulting's Columbus, Ohio Business Unit. In early 2012 he began leading their Application Lifecycle Management and Application Development National Service Offerings.
 
 ------
 
@@ -109,20 +109,19 @@ Since August 2010, he has been with Centric Consulting's Columbus Business Unit.
     </tr>
 </table>
 
-------
 
 ### Experience
 
 <div class="section-body">
 
 #### Columbus State Community College
+
 ##### Adjunct - Computer Information and Technology Department
 
-May 2015 - Present
+May 2015 - June 2016
 
 I am working with Columbus State Community College department of Computer Information and Technology to assist in designing a new C# course.
 
----
 
 #### Centric Consulting
 ##### Senior Architect
@@ -172,14 +171,12 @@ January 1990 – January 1998 (8 years 1 month)
 I served an Infantry Rifleman in the US Marine Corps.  
 Ask for recommendations
 </div>
-------
 
 ### Education
 #### The Ohio State University  
 ##### Bachelor of Science, Computer Science and Engineering  
 1989 – 1997
 
-------
 
 ### Patents
 
@@ -188,55 +185,3 @@ United States Patent [691305](http://www.google.com/patents/US6941305) Issued Se
 Inventors: Shawn Wallace, Brent Magouirk, William Kennan
 
 >A computer-implemented method of collecting client contact data is provided. The method includes the steps of opening a ticket session to create a client ticket, supplying the client ticket with information and closing the client ticket session after a predetermined time. Once the client ticket session is closed further alteration of the client ticket is precluded.
-
-
-------
-
-
-
-<hr />
-**** OLD ****
-<hr />
-
-<h3 id="specialties">Specialties</h3>
-
-<hr />
-
-<p>Key competencies include: business analysis, software development and architecture, planning, strategy, standardization, process re-engineering</p>
-
-<h3 id="core-technologies">Core technologies</h3>
-
-<hr />
-
-<table>  
-    <tr><td>Microsoft .NET (inlcuding MVC)</td><td>Internet Technologies and Architectures</td></tr>  
-    <tr><td>DBMS (NoSQL, SQL Server)</td><td>Customer Relationship Management Systems</td></tr>  
-    <tr><td>Voice Over IP</td><td>Ruby</td></tr>  
-    <tr><td>Ruby on Rails</td><td>Objective-C</td></tr>  
-    <tr><td>iOS</td><td></td></tr>  
-    <tr><td></td><td></td></tr>  
-</table>
-
-
-<h2 id="experience">Experience</h2>
-
-<hr />
-
-
-
-<h3 id="patents">Patents</h3>
-
-<hr />
-
-
-<h3 id="education">Education</h3>
-
-<hr />
-
-
-
-<h3 id="reference-applications">Reference Applications</h3>
-
-<p>Get a list and put it here.</p>
-<!-- ##END MARKED WRAPPER## -->
-    </div>
