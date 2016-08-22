@@ -7,9 +7,8 @@ header-img: "img/about-bg.jpg"
 
 #### I am...
 
-* Working with [Columbus State Community College](http://cscc.edu) on new Computer Science curriculum.
+* Working to establish a new service offering at [Centric Consulting](http://centricconsulting.com).
 * Working at [Centric Consulting](http://www.centricconsulting.com)
-* At [CodeMash](http://codemash.org)!
 
 #### And...
 
