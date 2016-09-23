@@ -14,12 +14,14 @@ task :new do
     f.puts "layout: post"
     f.puts "title: \"DRAFT: #{name}\""
     f.puts "category: ???"
+    f.puts "author: Shawn Wallace"
     f.puts "tags: blog"
     f.puts "year: #{Time.now.year}"
     f.puts "month: #{Time.now.month}"
     f.puts "day: #{Time.now.day}"
-    f.puts "published: false"
+    f.puts "published: true"
     f.puts "summary: ???"
+    f.puts "date: YYYY-MM-DD 05:00:00"
     f.puts "---"
   end
 end

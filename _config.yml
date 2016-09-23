@@ -16,3 +16,7 @@ permalink: pretty #/blog/:title
 paginate: 10
 exclude: ["lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp","less","node_modules","Gruntfile.js","package.json","README.md"]
 future: false
+
+collections:
+  case_studies:
+    output: true
