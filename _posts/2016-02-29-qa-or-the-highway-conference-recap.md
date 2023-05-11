@@ -24,11 +24,11 @@ In the next few paragraphs, we will explore an evolution of software design from
 
 #### The Monolith
 
-![](/img/monolith.png)
+![](/assets/img/monolith.png)
 
 Our applications have evolved. We started with monolithic, all-in-one systems. These systems are fairly easy to write and fairly simple to test. But as we add more code (even in a time-boxed agile process) our testing effort is always increasing.
 
-![](/img/time-to-test-vs-time-to-code.png)
+![](/assets/img/time-to-test-vs-time-to-code.png)
 
 When we deploy, we always deploy *everything* even if we didn't change it.
 
@@ -42,11 +42,11 @@ Our answer was to make our applications smaller.
 
 In moving to SOA, we broke apart our applications into their logical subsystems and treated each subsystem as a separate application. Each application now has much smaller scope and vastly less code to test. We still have the problem of an ever increasing code base, but it is more manageable.
 
-![](/img/soa.png)
+![](/assets/img/soa.png)
 
 Each application connects to any depedendant applications over some type of common communications structure. HTTP is very popular for this purpose. So when each application requires some functionality from another application, it simply makes a request over that common communication structure. Which led us to the dreaded 'Spaghetti Diagram.' 
 
-![](/img/spaghetti-diagram.png)
+![](/assets/img/spaghetti-diagram.png)
 
 Our applications were now simpler, but their interactions were vastly more complex making testing them very difficult. We traded a tightly coupled monolith for a tighly coupled enterprise application and we did not really have the skills to test at the network layer in our testing professionals. Becuase of the tight-coupling and unknown dependencies it was still tought to test and get into production.
 
@@ -69,13 +69,13 @@ Two common examples are below.
 
 ##### Enterprise Service Bus (ESB)
 Systems that use an ESB utilize a software package to route messages and provide process orchestration between components.
-![](/img/esb.png)
+![](/assets/img/esb.png)
 ESBs can be quite effective but they are expensive, hard to maintain, require specialized skills, and are hard to test.
 
 ##### Event-Driven Architecture (EDA)
 An alternative approach to the ESB is EDA. In EDA, applications interact by producing and consuming messages that are distrubuted by an event channel (usually queues). Conceptually, individual applications react to events that occur in some other application by processing the resultant message. In EDA an event typically represents a "significant change in state [^f3]"
 
-![](/img/eda.png)
+![](/assets/img/eda.png)
 
 In these messaging based infrastructures we gain the smaller applications that we tried to get in SOA that are easier to design and test with loose-coupling between sub-systems that make it easier to test applications in isolation.
 

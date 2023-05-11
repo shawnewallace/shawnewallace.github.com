@@ -4,6 +4,8 @@ title: "About Shawn"
 permalink: /about
 ---
 
+<img align="right" width="202px" height="254px" src="/assets/img/headshot.jpg">
+
 Since 1992 Shawn Wallace has been supporting business practices as a software developer, architect, technical manager, and entrepreneur.
 
 In 1998 he was a founding partner of Symeron Software, a web based Client Relationship Management/Salesforce Automation tool supporting car dealerships. As Symeron’s Chief Technical Officer, Shawn assembled a development team and built AutoClick.com from the ground up. While there he also supported the company infrastructure and sales organization and forged strategic business relationships with a wide variety of organizations including banks and automobile manufacturers.
