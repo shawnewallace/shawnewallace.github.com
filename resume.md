@@ -1,187 +1,123 @@
 ---
 layout: page
 title: "Resume"
-description: "A few things I have done..."
-header-img: "img/resume-bg.jpg"
+permalink: /resume
 ---
 
-### Background
+# Shawn Wallace
+4766 Haughn Road  
+Grove City, Ohio 43123  
+shawn@wshawn.com  
+(614) 270-1600
 
+## Background
 Since 1992 Shawn Wallace has been supporting business practices as a software developer, architect, technical manager, and entrepreneur.
 
-In 1998 he was a founding partner of Symeron Software, a web based Client Relationship Management/Salesforce Automation tool supporting car dealerships. As Symeron's Chief Technical Officer, Shawn assembled a development team and built AutoClick.com from the ground up. While there he also supported the company infrastructure and sales organization and forged strategic business relationships with a wide variety of organizations including banks and automobile manufacturers.
+In 1998 he was a founding partner of Symeron Software, a web based Client Relationship Management/Salesforce Automation tool supporting car dealerships. As Symeron’s Chief Technical Officer, Shawn assembled a development team and built AutoClick.com from the ground up. While there he also supported the company infrastructure and sales organization and forged strategic business relationships with a wide variety of organizations including banks and automobile manufacturers.
 
-In July 2007 he was recruited to Allen, Williams & Hughes, Co. as Director of Consulting Services. Shawn supported the IT consulting and professional services organization managing projects and customers as well as providing technical leadership and sales support.
+In July 2007 he was recruited to Allen, Williams & Hughes, Co. as the Director of Consulting Services. Shawn supported the IT consulting and professional services organization managing projects and customers as well as providing technical leadership and sales support.
 
-In 2008, Shawn joined the team at Heuristic Solutions as a Solutions Architect.
+In 2008, Shawn joined the team at Heuristic Solutions as a Solutions Architect. Through two years with Heuristics, he worked as the lead architect on several software implementations for businesses in the Washington, DC area and led the development of the first version of [Learning Builder](https://www.heuristics.net/learningbuilder/) which has since became a industry leading credentialing management platform.
 
-Since August 2010, he has been with Centric Consulting's Columbus, Ohio Business Unit. In early 2012 he began leading their Application Lifecycle Management and Application Development National Service Offerings.
+Since August 2010, he has been with Centric Consulting’s. He started with the Columbus, Ohio Business Unit as and architect and over the next several years worked with many of Centric clients and projects. In early 2012 he began leading their Application Lifecycle Management and Application Development National Service Offerings transitioning to the National Technology Practice as a Principal Architect in 2019.
 
-------
+Shawn is very proud to wear the Eagle, Globe, and Anchor of a United States Marine. He attended Parris Island in January 1990 and earned the title on March 30 of that same year. Semper Fideles.
 
-### Technical
+## Objective
+Highly accomplished Principal Architect with 25+ years of experience in designing and delivering scalable and innovative software solutions. Seeking a challenging position as a Principal Architect in an organization to leverage experience in guiding teams through complex technology transformations and driving business success.
 
-<table class="table table-condensed">
-    <tr>
-        <td>Specialties:</td>
-        <td>
-            Application Lifecycle Management<br />
-            Software Development<br />
-            Enterprise Application Architecture
-        </td>
-        <td>
-            Planning and Strategy<br />
-            Business Analysis<br />
-            Enterprise Patterns and Practices<br />
-            Standardization and Process Engineering
-        </td>
-    </tr>
-    <tr>
-        <td>Platforms:</td>
-        <td>
-            Microsoft Windows<br />
-        </td>
-        <td>
-            Linux (Red Hat, Fedora, Ubuntu, Raspbian)<br />
-            UNIX (Solaris, HP-UX)<br />
-            Mac OS
-        </td>
-    </tr>
-    <tr>
-        <td>Languages:</td>
-        <td>
-            C#<br />
-            Visual Basic<br />
-            C++<br />
-            ASP/ASP.NET<br />
-            VB.NET<br />
-            Go
-        </td>
-        <td>
-            T-SQL<br />
-            Visual Basic 6<br />
-            HTML<br />
-            XML<br />
-            Ruby<br />
-            JavaScript
-        </td>
-    </tr>
-    <tr>
-        <td>Tools:</td>
-        <td>
-            Microsoft Visual Studio<br />
-            Microsoft SQL Server<br />
-            Microsoft Team Foundation System<br />
-            XML Spy<br />
-            Apache Ant<br />
-            Apache Log4J<br />
-            JUnit<br />
-            NUnit
+## Summary of Qualifications
+- Extensive experience as a Principal Architect, leading the design and development of enterprise-level software solutions for multiple companies in various industries.
+- Strong expertise in system architecture, software engineering, and application integration.
+- Proven ability to analyze complex business requirements and translate them into technical solutions.
+- Proficient in a wide range of programming languages, frameworks, and technologies.
+- Track record of successfully managing cross-functional teams and collaborating with stakeholders to deliver high-quality solutions on time and within budget.
+- Excellent problem-solving skills and ability to troubleshoot and resolve technical challenges.
+- Strong communication skills, with a proven ability to present technical concepts to non-technical stakeholders effectively.
 
-        </td>
-        <td>
-            Log4NET<br />
-            Microsoft Office<br />
-            Ruby on Rails<br />
-            IBM DB2<br />
-            Cucumber<br />
-            SharePoint
-        </td>
-    </tr>
-    <tr>
-        <td>Other:</td>
-        <td>
-            Enterprise Content Management<br />
-            Engineering Leadership<br />
-            VoIP/Hosted PBX/Telecom<br />
-            Software Architecture<br />
-            Software Development<br />
-            IT Strategy
+## Professional Experience
 
-        </td>
-        <td>
-            Technical Visioning<br />
-            Develop Strategic Technical Partnerships<br />
-            Consulting<br />
-            Education<br />
-            Application Lifecycle Management<br />
-        </td>
-    </tr>
-</table>
+### Principal Architect | Centric Consulting | Kettering, Ohio | July 2019 - Present
+Works with Centric’s national technology leadership team across all organizational groups. Serves as a subject matter expert for technology service offerings. Provides leadership for technical initiatives, both internally and for Centric’s customers. Technology evangelist and practitioner. 
+
+Is a technical leader of projects and teams. Responsible for: 
+- Enterprise solution architecture and design 
+- Services strategy 
+- Technical components of IT Strategy 
+- Development coordination across multiple teams in local and international time zones 
+- Leading uplift of current platforms to adopt modern patterns and practices. 
+
+- Lead a team of software architects, developers, and engineers to deliver customized software solutions for clients in various industries.
+- Collaborated with clients to understand their business objectives, analyze requirements, and design scalable and robust software architectures.
+- Conducted technology assessments and provided recommendations on suitable frameworks, tools, and platforms.
+- Developed architectural blueprints, system design documents, and technical specifications.
+- Led the implementation of software solutions, ensuring adherence to best practices and industry standards.
+- Mentored and coached junior architects and developers to enhance their technical skills and foster a culture of continuous learning.
+- Provided technical guidance and support to project teams throughout the software development lifecycle.
+- Actively participated in client meetings, presentations, and workshops to gather feedback and refine solutions.
+- Built strong relationships with clients, fostering long-term partnerships and generating repeat business opportunities.
+
+### Adjunct Professor | Columbus State Community College | Columbus, Ohio | June 2015 - June 2016
+Worked with CSCC modernize their computer science educational offerings by: 
+- Updating curriculum and modernize tooling 
+- Part of a team creating a new C# practical application course 
+- Recruiting new instructors 
+- Plan for replatforming multiple applications in the portfolio of library customer developed systems 
+- Coach existing instructors in newer and better practices and patterns 
+
+### Senior Architect | Centric Consulting | Kettering, Ohio | February 2011 - July 2019
+- Collaborated with cross-functional teams to design and develop scalable software architectures for enterprise-level applications.
+- Conducted architectural reviews and implemented improvements to optimize performance, security, and maintainability.
+- Worked closely with project managers, business analysts, and developers to ensure alignment of technical solutions with business goals.
+- Implemented design patterns and best practices to enhance code quality and maintainability.
+- Led efforts to modernize legacy systems, improving scalability, reliability, and user experience.
+- Provided technical guidance and support to development teams, troubleshooting complex issues and ensuring timely delivery of projects.
 
 
-### Experience
+### Architect | Centric Consulting | Kettering, Ohio | August 2010 - February 2011
 
-<div class="section-body">
+### Senior Solutions Architect | Heuristic Solutions, LLC | Washington, DC | July 2008 - August 2010
+- Worked as an Architect and team lead in the Consulting practice. I worked on projects (large and small) for many Metro DC Area companies focusing on the Microsoft Technology stack. 
+- Assisted in the creation of a new product business for Heuristics called LearningBuilder (http://www.learningbuilder.com/). In this role, I led the development of the first versions of this Learning Management system. 
 
-#### Columbus State Community College
+### Director of Consulting Services | Allen, Williams & Hughes Co. | Dublin, Ohio | July 2007 - July 2008
+- Designed and deployed AWH’s MOSS/InfoPath environment supporting sales workflow/- processes, recruiting workflow/processes, collaboration, and corporate information - delivery 
+- Utilized SharePoint Workflow, multiple data collection (forms) and reporting utilities, - and the Microsoft Taxonomy toolset to support content delivery.  
+- Deployment of GeoDocs Content Management System at numerous clients or in hosted - environments. Configuration, conversion, and refinement of ASP.NET modules and templates 
+- Developed and utilized taxonomies to support enterprise-wide content delivery strategies - (Union County Health Department, Ohio Education Association, Mount Carmel Health Plans)  
+- Architecting of Tablet PC-based information gathering application with special - synchronization functionalities using serialization to manage connected/disconnected - states 
 
-##### Adjunct - Computer Information and Technology Department
+### Chief Technical Officer | Symeron Software, Inc. | Columbus, Ohio | August 1998 - July 2007
+- Designed AutoClick, Sales Force Automation/Customer Relationship Management tool for the - Automotive Retail Market.  Led process and development effort throughout. 
+- Implemented the automotive retail vertical process 
+- Currently used nationally by over 2000 automotive organizations 
+- Designed and implemented scalable production hosting environment 
+- Integrated the application with numerous large-scale automotive systems utilizing - multiple technologies including, for example, extensive web services. Clients included - Credit Acceptance Corp, General Motors Corp, Ford Motor Credit, Mazda North American - Operations (MNAO), various banks and financial institutions. 
+- Utilized industry-wide information sharing standards including ADF and STAR. 
+- Use of n-tier architectures and multiple programming languages to deliver cross-platform - integration 
+- Software manages 2 million prospects across the dealership client network in a hosted - environment 
+- Designed, deployed (in 2003) and maintained SharePoint to provide issue tracking, - collaboration, content management to support multiple deployment teams and customer - service initiatives 
 
-May 2015 - June 2016
+### Senior Consultant | newMedia, Inc. | Columbus, Ohio | November 1995 - August 1998
+### Application Developer | Metatec Corporation | Dublin, Ohio | September 1993 - November 1995
 
-I am working with Columbus State Community College department of Computer Information and Technology to assist in designing a new C# course.
+## Education
+- Bachelor's Degree in Computer Science and Engineering | The Ohio State University | 1997
 
-
-#### Centric Consulting
-##### Senior Architect
-
-August 2010 – Present
-
-I help our clients and customers understand their technical options, design their infrastructure and solutions and provide technical leadership throughout.
-
-#### Heuristic Solutions
-##### Solution Architect
-
-July 2008 – August 2010
-
-#### Allen, Williams & Hughes Company
-##### Director of Consulting Services
-
-July 2007 – July 2008
-
-Supported the IT consulting and professional services organization managing projects and customers as well as providing technical leadership and sales support.
-
-#### Symeron Software
-##### Partner, Product Development Manager
-
-August 1998 – July 2007 (9 years)
-
-Co-founded in 1998. The main product, AutoClick, is a Sales Force Automation/Customer Relationship Management tool for the Automotive Retail Market. I was tasked with implementing and supporting the tools and relationships necessary to serve and provide value to our customers. Currently used nationally by over 450 organizations including major dealer groups.
-
-In 2005 we deployed a Hosted PBX/VoIP product AutoClick iFon on the Tekelec T6000 platform. Currently used by 25 small businesses.
-
-#### newMedia, Inc.
-##### Consultant
-
-Privately Held; 11-50 employees; Information Technology and Services industry  
-October 1995 – August 1998 (2 years 11 months)
-
-#### Metatec Corporation
-##### Software Developer
-
-June 1990 – October 1995 (5 years 5 months)
-
-#### United States Marine Corps (Reserve)
-##### Infantryman
-
-Government Agency; 10,001+ employees; Military industry  
-January 1990 – January 1998 (8 years 1 month)
-
-I served an Infantry Rifleman in the US Marine Corps.  
-Ask for recommendations
-</div>
-
-### Education
-#### The Ohio State University  
-##### Bachelor of Science, Computer Science and Engineering  
-1989 – 1997
+## Certifications
+- Microsoft Certified Professional, since 1995
+- AWS Certified Cloud Practitioner, July 2018
 
 
-### Patents
+## Technical Skills
+- Programming Languages: [List relevant programming languages, e.g., Java, Python, C#]
+- Frameworks and Technologies: [List relevant frameworks and technologies, e.g., Spring, .NET, Angular]
+- Databases: [List relevant databases, e.g., MySQL, Oracle, MongoDB]
+- Cloud Platforms: [List relevant cloud platforms, e.g., AWS, Azure, Google Cloud]
+- Tools and Methodologies: [List relevant tools and methodologies, e.g., Agile, DevOps, UML]
 
-Customer Management System for Automobile Sales Industry  
-United States Patent [691305](http://www.google.com/patents/US6941305) Issued September 6, 2005  
-Inventors: Shawn Wallace, Brent Magouirk, William Kennan
+## Patents
+- Customer Management System for Automobile Sales Industry, US 6941305, September 2005
 
->A computer-implemented method of collecting client contact data is provided. The method includes the steps of opening a ticket session to create a client ticket, supplying the client ticket with information and closing the client ticket session after a predetermined time. Once the client ticket session is closed further alteration of the client ticket is precluded.
+## References
+Available upon request

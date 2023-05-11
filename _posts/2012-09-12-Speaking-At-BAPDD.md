@@ -29,7 +29,7 @@ My presentation will introduce key BDD concepts and help get people started on t
 **Location:**
 	
 	The Conference Center at Northpointe
-	 	100 Green Meadows Dr.South
-	 	Lewis Center, Ohio 43035
+		100 Green Meadows Dr.South
+		Lewis Center, Ohio 43035
 
 You can access my presentation at <https://github.com/shawnewallace/intro-to-atdd>.
