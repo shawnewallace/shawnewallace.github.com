@@ -10,6 +10,7 @@ day: 08
 published: true
 summary:  My personal technology suite of tools
 date: 2016-01-08 08:00:00
+thumbnail-img: https://www.mindmeister.com/image/xlarge/994032171/mind-map-process-of-technology.png
 ---
 # Personal Technolgy and Tools Map (updated)
 
