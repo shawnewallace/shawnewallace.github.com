@@ -2,13 +2,11 @@
 layout: page
 title: "Resume"
 permalink: /resume
+cover-img: /assets/img/resume-bg.jpg
 ---
 
 # Shawn Wallace
-4766 Haughn Road  
-Grove City, Ohio 43123  
-shawn@wshawn.com  
-(614) 270-1600
+The best way to contact me is through the social media links in the footer or by email at shawn@wshawn.com.
 
 ## Objective
 Highly accomplished Principal Architect with 25+ years of experience in designing and delivering scalable and innovative software solutions. Seeking a challenging position as a Principal Architect in an organization to leverage experience in guiding teams through complex technology transformations and driving business success.
@@ -33,12 +31,12 @@ Is a technical leader of projects and teams. Responsible for:
 - Technical components of IT Strategy 
 - Development coordination across multiple teams in local and international time zones 
 - Leading uplift of current platforms to adopt modern patterns and practices. 
-
-- Lead a team of software architects, developers, and engineers to deliver customized software solutions for clients in various industries.
+- Driving technology culture, seeking to make Centric a "destination employer" for technologists.
+<!-- - Lead a team of software architects, developers, and engineers to deliver customized software solutions for clients in various industries. -->
 - Collaborated with clients to understand their business objectives, analyze requirements, and design scalable and robust software architectures.
 - Conducted technology assessments and provided recommendations on suitable frameworks, tools, and platforms.
-- Developed architectural blueprints, system design documents, and technical specifications.
-- Led the implementation of software solutions, ensuring adherence to best practices and industry standards.
+- Developed architectural roadmaps, system design documents, and technical specifications.
+- Led the implementation of software solutions, ensuring adherence to better practices and industry standards.
 - Mentored and coached junior architects and developers to enhance their technical skills and foster a culture of continuous learning.
 - Provided technical guidance and support to project teams throughout the software development lifecycle.
 - Actively participated in client meetings, presentations, and workshops to gather feedback and refine solutions.
@@ -53,15 +51,13 @@ Worked with CSCC modernize their computer science educational offerings by:
 - Coach existing instructors in newer and better practices and patterns 
 
 ### Senior Architect | Centric Consulting | Kettering, Ohio | February 2011 - July 2019
+### Architect | Centric Consulting | Kettering, Ohio | August 2010 - February 2011
 - Collaborated with cross-functional teams to design and develop scalable software architectures for enterprise-level applications.
 - Conducted architectural reviews and implemented improvements to optimize performance, security, and maintainability.
 - Worked closely with project managers, business analysts, and developers to ensure alignment of technical solutions with business goals.
 - Implemented design patterns and best practices to enhance code quality and maintainability.
 - Led efforts to modernize legacy systems, improving scalability, reliability, and user experience.
 - Provided technical guidance and support to development teams, troubleshooting complex issues and ensuring timely delivery of projects.
-
-
-### Architect | Centric Consulting | Kettering, Ohio | August 2010 - February 2011
 
 ### Senior Solutions Architect | Heuristic Solutions, LLC | Washington, DC | July 2008 - August 2010
 - Worked as an Architect and team lead in the Consulting practice. I worked on projects (large and small) for many Metro DC Area companies focusing on the Microsoft Technology stack. 
@@ -112,11 +108,13 @@ Staff developer working on Metatec’s suite of commercial content applications 
 - AWS Certified Cloud Practitioner, July 2018
 
 ## Technical Skills
-- Programming Languages: C#, JavaScript, T-SQL, Go, Objective-C
-- Frameworks and Technologies: .NET, Angular, React [List relevant frameworks and technologies, e.g., Spring, .NET, Angular]
-- Databases: [List relevant databases, e.g., MySQL, Oracle, MongoDB]
-- Cloud Platforms: [List relevant cloud platforms, e.g., AWS, Azure, Google Cloud]
-- Tools and Methodologies: [List relevant tools and methodologies, e.g., Agile, DevOps, UML]
+Over quite a long career has spent time in most of the most used platforms and frameworks. Spends most recent time implementing large-scale enterprise modern architectures.
+
+- Programming Languages: C#, JavaScript, T-SQL, Go, Objective-C, Swift
+- Frameworks and Technologies: .NET, Angular, React, iOS, Event-streaming/Event-Driven Architecture [List relevant frameworks and technologies, e.g., Spring, .NET, Angular]
+- Databases: Relational RDBMS, and several schema-less
+- Cloud Platforms: AWS, Azure, limited GCP
+- Tools and Methodologies: Event-Driven Architecture, Agile (SCRUM, Kanban), DevOps/CI/CD
 
 ## Patents
 - Customer Management System for Automobile Sales Industry, US 6941305, September 2005

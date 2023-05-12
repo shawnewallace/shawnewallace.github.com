@@ -2,6 +2,8 @@
 layout: page
 title: "About Shawn"
 permalink: /about
+show-avatar: false
+cover-img: /assets/img/about-bg.jpg
 ---
 
 <img align="right" width="202px" height="254px" src="/assets/img/headshot.jpg">
