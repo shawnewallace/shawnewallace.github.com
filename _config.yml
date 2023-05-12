@@ -68,7 +68,8 @@ navbar-links:
   About Me: "about"
   Resume/CV: "resume"
   Now: "now"
-  # Resources:
+  Resources:
+      - Tags: "tags"
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
@@ -92,6 +93,7 @@ social-network-links:
   linkedin: shawnwallace
 
 url-pretty: "shawnewallace.com"
+post-search: true
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
@@ -104,3 +106,32 @@ footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
+
+# Ruby Date Format to show dates of posts
+date_format: "%B %-d, %Y"
+
+# Output options (more information on Jekyll's site)
+timezone: "America/New_York"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"

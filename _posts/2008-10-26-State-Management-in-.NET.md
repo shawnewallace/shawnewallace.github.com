@@ -1,12 +1,8 @@
 ---
 layout: post
 title: State Management in .NET
-year: 2008
-month: 10
-day: 26
-updated: 
 comments: false
-categories: .NET Web Development Architecture
+tags: [.NET, Architecture, Legacy]
 published: true
 ---
 
