@@ -86,7 +86,23 @@ Worked with CSCC modernize their computer science educational offerings by:
 - Designed, deployed (in 2003) and maintained SharePoint to provide issue tracking, - collaboration, content management to support multiple deployment teams and customer - service initiatives 
 
 ### Senior Consultant | newMedia, Inc. | Columbus, Ohio | November 1995 - August 1998
+- Project management, sales coordination and technical leadership & architecture
+- Responsible for research into adoption of Microsoft and competing technologies for clients
+- Led technical teams implementing the following;
+- Connectivity to legacy systems
+- Communication between dissimilar systems
+- WAN size software deployments with thousands of users distributed worldwide
+- Microsoft Certified Trainer
+  - Enterprise training
+  - Technical training
+- Development team and development process organization
+- Software recommendations
+- Tool recommendations
+- Hardware and supporting infrastructure requirements.
+
+
 ### Application Developer | Metatec Corporation | Dublin, Ohio | September 1993 - November 1995
+Staff developer working on Metatec’s suite of commercial content applications created specifically for the new medium of CD-ROM. Worked both in customer facing solutions and on the data processing and indexing of searchable content.
 
 ## Education
 - Bachelor's Degree in Computer Science and Engineering | The Ohio State University | 1997
@@ -95,10 +111,9 @@ Worked with CSCC modernize their computer science educational offerings by:
 - Microsoft Certified Professional, since 1995
 - AWS Certified Cloud Practitioner, July 2018
 
-
 ## Technical Skills
-- Programming Languages: [List relevant programming languages, e.g., Java, Python, C#]
-- Frameworks and Technologies: [List relevant frameworks and technologies, e.g., Spring, .NET, Angular]
+- Programming Languages: C#, JavaScript, T-SQL, Go, Objective-C
+- Frameworks and Technologies: .NET, Angular, React [List relevant frameworks and technologies, e.g., Spring, .NET, Angular]
 - Databases: [List relevant databases, e.g., MySQL, Oracle, MongoDB]
 - Cloud Platforms: [List relevant cloud platforms, e.g., AWS, Azure, Google Cloud]
 - Tools and Methodologies: [List relevant tools and methodologies, e.g., Agile, DevOps, UML]
