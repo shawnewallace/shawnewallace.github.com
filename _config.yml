@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: I'm in o-HI-o
+title: Shawn Wallace
 author: Shawn Wallace
 email: shawn@wshawn.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The best way to contact Shawn is to use of the links to the left or email him at shawn@wshawn.com.
+  Personal website for Shawn Wallace.
 domain: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.shawnewallace.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,7 +34,6 @@ show_excerpts: true
 
 # Build settings
 theme: minima
-# remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
