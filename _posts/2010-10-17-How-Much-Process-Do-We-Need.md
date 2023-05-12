@@ -1,12 +1,7 @@
 ---
 layout: post
 title: How Much Process Do We Need
-year: 2010
-month: 10
-day: 17
-updated: 
-comments: false
-categories: Retrospective Agile
+categories: [Retrospective, Agile]
 published: true
 ---
 

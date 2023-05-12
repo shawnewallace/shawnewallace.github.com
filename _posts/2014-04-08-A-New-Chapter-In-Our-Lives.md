@@ -1,14 +1,8 @@
 ---
 layout: post
 title: A New Chapter In Our Lives
-category: Blogging
-tags: personal
-year: 2014
-month: 04
-day: 08
-published: false
-summary:  An open letter to our church family.
-date: 2014-04-08 05:00:00
+tags: [Personal]
+subtitle:  An open letter to our church family.
 ---
 This is not a technical or IT related post.  It is a very personal letter to a congregation of people I have been associated with since I was 5 years old.
 

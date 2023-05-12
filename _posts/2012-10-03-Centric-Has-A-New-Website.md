@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Centric Has a New Website
-category: Blogging
-tags: centric
-year: 2012
-month: 10
-day: 3
-published: true
+tags: [Centric]
 ---
 I work for [Centric Consulting](http://www.centricconsulting.com/), and we have a new website.  A lot of people have been working hard for quite a long time to make this happen and I think the results are outstanding.
 

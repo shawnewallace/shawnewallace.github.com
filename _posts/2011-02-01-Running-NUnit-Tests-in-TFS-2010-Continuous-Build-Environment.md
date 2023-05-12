@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Running NUnit Tests in TFS 2010 Continuous Build Environment
-year: 2011
-month: 2
-day: 1
-updated: 
-comments: false
-categories: TFS 2010 TFS
+tags: [Patterns & Practices, Legacy]
 published: true
 ---
 

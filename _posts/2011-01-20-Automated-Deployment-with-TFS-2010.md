@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Automated Deployment with TFS 2010
-year: 2011
-month: 1
-day: 20
 comments: false
-categories: Team Foundation Server
+tags: [Legacy, Patterns & Practices]
 published: true
 ---
 <div>

@@ -3,13 +3,12 @@ layout: post
 title: QA or the Highway Recap
 category: Blogging
 author: Shawn Wallace
-tags: [EDA]
+tags: [Event-Driven Architecture, Speaking]
 year: 2016
 month: 02
 day: 29
 published: true
-summary:  A summary of a talk I gave at the 2016 QA or the Highway tester conference.
-date: 2016-02-29 05:00:00
+subtitle:  A summary of a talk I gave at the 2016 QA or the Highway tester conference.
 thumbnail-img: /assets/img/eda.png
 ---
 On February 16, 2016 I had the opportunity to be one of the speakers at [QA or the Highway](http://qaorthehighway.com/){:target="_blank"} in Columbus, Ohio. The following is a summary of the content of my talk.

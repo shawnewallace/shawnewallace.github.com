@@ -1,8 +1,7 @@
 ---
 layout: post
 title: What Do You Want As A Technologist?
-category: Blogging
-tags: centric
+tags: [Centric, Leadership]
 year: 2013
 month: 08
 day: 23

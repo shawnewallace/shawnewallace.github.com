@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Your Maturing Team
-category: Blogging
-tags: centric agile
-year: 2012
-month: 11
-day: 15
-published: true
+tags: [Centric, Agile]
 ---
 [REVISED 20121116 due to invaluable editing from a colleague.  I'm a poor writer.]
 

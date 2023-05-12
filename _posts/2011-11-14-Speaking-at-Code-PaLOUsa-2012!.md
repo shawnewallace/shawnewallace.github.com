@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Speaking at Code PaLOUsa 2012!
-year: 2011
-month: 11
-day: 14
-updated: 
-comments: false
-categories: .NET community
+tags: [.NET, Speaking]
 published: true
 ---
 

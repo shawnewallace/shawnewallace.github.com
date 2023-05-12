@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Speaking at IIBA Business Analysis Professional Development Day
-category: Blogging Speaking bapdd
-tags: blog agile
+tags: [Speaking, Agile, Legacy]
 year: 2012
 month: 9
 day: 12

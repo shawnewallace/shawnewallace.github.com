@@ -1,13 +1,10 @@
 ---
 layout: post
 title: The Algorithms Still Count
-year: 2011
-month: 1
-day: 19
-updated: 
-comments: false
-categories: 
+tags: [Speaking, Architecture]
 published: true
+gh-badge: watch
+gh-repo: shawnewallace/TheAlgorithmsStillCount
 ---
 
 <div>
