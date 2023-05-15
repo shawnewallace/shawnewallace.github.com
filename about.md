@@ -16,6 +16,6 @@ In July 2007 he was recruited to Allen, Williams & Hughes, Co. as the Director o
 
 In 2008, Shawn joined the team at Heuristic Solutions as a Solutions Architect. Through two years with Heuristics, he worked as the lead architect on several software implementations for businesses in the Washington, DC area and led the development of the first version of [Learning Builder](https://www.heuristics.net/learningbuilder/) which has since became a industry leading credentialing management platform.
 
-Since August 2010, he has been with Centric Consulting. He started with the Columbus, Ohio Business Unit as and architect and over the next several years worked with many of Centric clients and projects. In early 2012 he began leading their Application Lifecycle Management and Application Development National Service Offerings transitioning to the National Technology Practice full-time as a Principal Architect in 2019.
+Since August 2010, he has been with Centric Consulting. He started with the Columbus, Ohio Business Unit as an architect and over the next several years worked with many of Centric clients and projects. In early 2012 he began leading their Application Lifecycle Management and Application Development National Service Offerings transitioning to the National Technology Practice full-time as a Principal Architect in 2019.
 
 Shawn is very proud to wear the Eagle, Globe, and Anchor of a United States Marine. He attended Parris Island in January 1990 and earned the title on March 30 of that same year. Semper Fideles.
