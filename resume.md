@@ -6,7 +6,7 @@ cover-img: /assets/img/resume-bg.jpg
 ---
 
 # Shawn Wallace
-The best way to contact me is through the social media links in the footer or by email at shawn@wshawn.com.
+The best way to get in contact is through the social media links in the footer or by email at shawn@wshawn.com.
 
 ## Objective
 Highly accomplished Principal Architect with 25+ years of experience in designing and delivering scalable and innovative software solutions. Seeking a challenging position as a Principal Architect in an organization to leverage experience in guiding teams through complex technology transformations and driving business success.
@@ -39,7 +39,7 @@ Is a technical leader of projects and teams. Responsible for:
 - Led the implementation of software solutions, ensuring adherence to better practices and industry standards.
 - Mentored and coached junior architects and developers to enhance their technical skills and foster a culture of continuous learning.
 - Provided technical guidance and support to project teams throughout the software development lifecycle.
-- Actively participated in client meetings, presentations, and workshops to gather feedback and refine solutions.
+<!-- - Actively participated in client meetings, presentations, and workshops to gather feedback and refine solutions. -->
 - Built strong relationships with clients, fostering long-term partnerships and generating repeat business opportunities.
 
 ### Adjunct Professor | Columbus State Community College | Columbus, Ohio | June 2015 - June 2016
