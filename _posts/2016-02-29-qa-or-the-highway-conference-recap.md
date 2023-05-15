@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QA or the Highway Recap
-category: Blogging
 author: Shawn Wallace
 tags: [Event-Driven Architecture, Speaking]
 year: 2016

@@ -107,6 +107,9 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#FF000A" #???
 
+site-css:
+  - "/assets/css/custom-styles.css"
+
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
