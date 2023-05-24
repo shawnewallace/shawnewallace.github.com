@@ -9,7 +9,7 @@ thumbnail-img: /assets/img/fire-hose.jpg
 
 The realm of AI has witnessed significant advancements what seems like almost overnight. One of the most remarkable being the development of conversational AI models like OpenAI's GPT offering. I have been surprised by how rapidly things have advanced and feel as if I've been playing catchup. Playing catchup often looks like drinking from a firehose.
 
-I strongly belive that we, as software engineers, should develop and understanding of and attempt to master these technologies. It can provide a substantial boost to your skillset, opening new paths for you to explore and innovate. 
+I strongly believe that we, as software engineers, should develop and understanding of and attempt to master these technologies. It can provide a substantial boost to your skillset, opening new paths for you to explore and innovate. 
 
 In this post, I aim to help you ramp up on ChatGPT and provide a roadmap to effectively get started in your own work.
 
