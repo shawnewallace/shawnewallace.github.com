@@ -23,7 +23,6 @@ ChatGPT is built on a [Transformer-based language model](https://en.wikipedia.or
 
 - ["What is ChatGPT Doing ... and Why Does It Work"](https://a.co/d/bIHp7kn) by Steven Wolfram. (read)
 - ["The Hundred-Page Machine Learning Book"](https://a.co/d/9B5tbca) by Andrly Burkov. (read)
-- ["GPT-2, GPT-3, and beyond"](https://openai.com/research/#gpt-2-gpt-3-and-beyond) by OpenAI. (skimmed)
 - ["Natural Language Processing in TensorFlow"](https://www.coursera.org/learn/natural-language-processing-tensorflow) course on Coursera. (found on internet, not taken)
 - ["The Illustrated Transformer"](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar. (found on internet)
 
