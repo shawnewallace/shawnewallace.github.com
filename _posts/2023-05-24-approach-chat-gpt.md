@@ -13,7 +13,7 @@ I strongly belive that we, as software engineers, should develop and understandi
 
 In this post, I aim to help you ramp up on ChatGPT and provide a roadmap to effectively get started in your own work.
 
-First, I will point you to a [blog series](https://centricconsulting.com/blog/author/josepho/) currently being published by  [Joseph Ours](https://centricconsulting.com/team/joseph-ours/) who leads the Modern Software Development Service Offering where I work at [Centric Consulting](https://centricconsulting.com). Joe is also heading up our AI/ML offering and you will definitely benefit from hearing from him.
+First, I will point you to a [blog series](https://centricconsulting.com/blog/author/josepho/) currently being published by  [Joseph Ours](https://centricconsulting.com/team/joseph-ours/) who leads the [Modern Software Development Service Offering](https://centricconsulting.com/technology-solutions/modern-software-delivery/) where I work at [Centric Consulting](https://centricconsulting.com). Joe is also heading up our AI/ML offering and you will definitely benefit from hearing from him.
 
 ## 1. Build a Foundation of Knowledge
 
