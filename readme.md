@@ -2,3 +2,4 @@
 
 site created using https://github.com/daattali/beautiful-jekyll
 
+bundle exec jekyll serve --drafts
