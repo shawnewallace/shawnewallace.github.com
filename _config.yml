@@ -82,7 +82,7 @@ round-avatar: true
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-gtag: "G-E7MLGF56Q5"
+gtag: "G-MGVZT97L08"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
