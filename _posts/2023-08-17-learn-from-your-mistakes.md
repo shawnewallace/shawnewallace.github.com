@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Mistakes and Their Value To You and Your Career
-subtitle:  Understand how great leaders and having the space to make mistakes is important.
+subtitle:  Understand how great leaders treat people that have made mistakes and on having the space to make mistakes is important.
 author: Shawn Wallace
 tags: [Leadership, Personal]
 # thumbnail-img: /assets/img/eda-so-hot.jpg
