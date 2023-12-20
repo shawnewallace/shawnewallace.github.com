@@ -9,7 +9,7 @@ cover-img: /assets/img/resume-bg.jpg
 The best way to get in contact is through the social media links in the footer or by email at shawn@wshawn.com.
 
 ## Objective
-Highly accomplished Principal Architect with 25+ years of experience in designing and delivering scalable and innovative software solutions. Seeking a challenging position as a Principal Architect in an organization to leverage experience in guiding teams through complex technology transformations and driving business success.
+Highly accomplished Principal Architect with over three decades of experience in designing and delivering scalable and innovative software solutions. Seeking a challenging position as a Principal Architect in an organization to leverage experience in guiding teams through complex technology transformations and driving business success.
 
 ## Summary of Qualifications
 - Extensive experience as a Principal Architect, leading the design and development of enterprise-level software solutions for multiple companies in various industries.
