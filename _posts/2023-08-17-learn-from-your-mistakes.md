@@ -6,7 +6,7 @@ author: Shawn Wallace
 tags: [Leadership, Personal]
 # thumbnail-img: /assets/img/eda-so-hot.jpg
 ---
-We are often told how making mistakes and learning from them is necessary for growth. It is a common sentiment, but important. A quick online search led me to [qoutes](https://www.lovetoknow.com/quotes-quips/inspirational/35-quotes-about-learning-from-your-mistakes-reassure-you) from renowned people emphasizing lessons they learned from their own mistakes. I'd like to share a story of a mistake I made early my career and its profound impact on my professional experience since then.
+We are often told how making mistakes and learning from them is necessary for growth. It is a common sentiment, but important. A quick online search led me to [quotes](https://www.lovetoknow.com/quotes-quips/inspirational/35-quotes-about-learning-from-your-mistakes-reassure-you) from renowned people emphasizing lessons they learned from their own mistakes. I'd like to share a story of a mistake I made early my career and its profound impact on my professional experience since then.
 
 ## Background 
 I was very fortunate to be given the opportunity to co-op with a Metatec Corporation in Dublin, Ohio, around 1993. This engagement allowed me to work with some awesome software engineers and leaders on projects that, even today, I find cool. Our team focused on harnessing the then budding technology of CD-ROMs, using them to store indexes of what then was considered large amounts of data and multimedia. This software was often rebuilt with fresh data to serve as digital periodicals.
