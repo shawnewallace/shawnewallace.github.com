@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Making Mistakes and Their Value To You and Your Career
-subtitle:  Understand how great leaders treat people that have made mistakes and on having the space to make mistakes is important.
+title: Innovation & Transformation | AI for Small Business: Navigating Success and Pitfalls
+subtitle:  Discover how AI tools can transform your operations and drive success while learning strategies to avoid common pitfalls.
 author: Shawn Wallace
 tags: [Innovation, Speaking]
 thumbnail-img: https://columbus.org/wp-content/uploads/2022/08/IT_Header-1536x384.png
