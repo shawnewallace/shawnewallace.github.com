@@ -9,7 +9,7 @@ thumbnail-img: https://columbus.org/wp-content/uploads/2022/08/IT_Header-1536x38
 
 **Join Me at the Innovation & Transformation Panel This Week!**
 
-This Wednesday I'm participating in an exciting panel discussion on AI for small businesses. The event titled, "Innovation & Transformation | AI for Small Business: Navigating Success and Pitfalls", will be hosted hosted by the Columbus Chamber of Commerce.
+This Wednesday I'm participating in an exciting panel discussion on AI for small businesses. The event titled, "Innovation & Transformation - AI for Small Business: Navigating Success and Pitfalls", will be hosted hosted by the Columbus Chamber of Commerce.
 
 **Date & Time:** May 8, 2024 from 8:30 AM - 10:30AM (Eastern Time Zone)
 **Location:** Crimson Cup Coffee - Innovation Lab & Traning Facility, 700 Alum Creek Drive, Columbus, Ohio 43205
