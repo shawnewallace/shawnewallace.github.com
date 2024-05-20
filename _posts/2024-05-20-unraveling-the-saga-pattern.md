@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the Saga Pattern - Orchestration vs. Choreography
+title: Understanding the Saga Pattern - Process Orchestration vs. Choreography
 subtitle:  Decoding the Saga - Strategic Transaction Management in Modern Applications
 author: Shawn Wallace
 tags: [Event-Driven Architecture]
