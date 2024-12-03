@@ -20,6 +20,9 @@ duplicate data, or logical errors requiring manual reconciliation.
 Thankfully there are design patterns that can help us address this problem. The transactional *outbox pattern* 
 is a reliable solution to this challenge. Let's explore its definition, problems solved, and implementation to ensure transactional consistency in applications that are part of distributed systems.
 
+
+(watch this [video](https://www.youtube.com/watch?v=XALvnX7MPeo) from Milan Jovanovic)
+
 -----------
 
 ### The Problem: Transactional Continuity in Distributed Systems
