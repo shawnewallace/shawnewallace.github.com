@@ -3,7 +3,7 @@ layout: post
 subtitle: Ensuring Transactional Continuity with the Outbox Pattern in distributed applications
 title: EDA with the Outbox Pattern
 author: Shawn Wallace
-tags: [Event-Driven Architecture, Patterns & Practices, Architecture]
+tags: [Event-driven Architecture, Patterns & Practices, Architecture]
 thumbnail-img: /assets/img/outbox-pattern.webp
 ---
 

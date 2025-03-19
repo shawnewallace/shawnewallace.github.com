@@ -2,7 +2,7 @@
 layout: post
 title: QA or the Highway Recap
 author: Shawn Wallace
-tags: [Event-Driven Architecture, Speaking]
+tags: [Event-driven Architecture, Speaking]
 year: 2016
 month: 02
 day: 29
@@ -71,7 +71,7 @@ Systems that use an ESB utilize a software package to route messages and provide
 ![](/assets/img/esb.png)
 ESBs can be quite effective but they are expensive, hard to maintain, require specialized skills, and are hard to test.
 
-##### Event-Driven Architecture (EDA)
+##### Event-driven Architecture (EDA)
 An alternative approach to the ESB is EDA. In EDA, applications interact by producing and consuming messages that are distrubuted by an event channel (usually queues). Conceptually, individual applications react to events that occur in some other application by processing the resultant message. In EDA an event typically represents a "significant change in state [^f3]"
 
 ![](/assets/img/eda.png)

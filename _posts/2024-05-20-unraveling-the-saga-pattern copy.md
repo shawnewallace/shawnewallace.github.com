@@ -3,7 +3,7 @@ layout: post
 title: Understanding the Saga Pattern - Process Orchestration vs. Choreography
 subtitle:  Decoding the Saga - Strategic Transaction Management in Modern Applications
 author: Shawn Wallace
-tags: [Event-Driven Architecture]
+tags: [Event-driven Architecture]
 thumbnail-img: /assets/img/saga.jpeg
 ---
 In the realm (I think I say 'realm' a lot) of enterprise solution architecture, ensuring reliable and consistent transactions across multiple services or applications is a significant challenge. The saga pattern is a powerful solution to this problem, providing a way to manage distributed transactions without relying on things like traditional two-phase commits. This blog post will explore the saga pattern and compare a couple of key approaches to implementing it: process orchestration and process choreography.

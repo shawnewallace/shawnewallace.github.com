@@ -111,10 +111,10 @@ Staff developer working on Metatec’s suite of commercial content applications 
 Over quite a long career has spent time in most of the most used platforms and frameworks. Spends most recent time implementing large-scale enterprise modern architectures.
 
 - Programming Languages: C#, JavaScript, T-SQL, Go, Objective-C, Swift
-- Frameworks and Technologies: .NET, Angular, React, iOS, Event-streaming/Event-Driven Architecture
+- Frameworks and Technologies: .NET, Angular, React, iOS, Event-streaming/Event-driven Architecture
 - Databases: Relational RDBMS, and several schema-less
 - Cloud Platforms: AWS, Azure, limited GCP
-- Tools and Methodologies: Event-Driven Architecture, Agile (SCRUM, Kanban), DevOps/CI/CD
+- Tools and Methodologies: Event-driven Architecture, Agile (SCRUM, Kanban), DevOps/CI/CD
 
 ## Patents
 - Customer Management System for Automobile Sales Industry, US 6941305, September 2005

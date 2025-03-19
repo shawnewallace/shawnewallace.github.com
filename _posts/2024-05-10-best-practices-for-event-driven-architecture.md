@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Steering Clear of Event Hell - Best Practices for Event-Driven Architecture
-subtitle:  Mastering Event-Driven Architecture - Essential Practices to Prevent Overcomplexity and Align with Business Goals.
+title: Steering Clear of Event Hell - Best Practices for Event-driven Architecture
+subtitle:  Mastering Event-driven Architecture - Essential Practices to Prevent Overcomplexity and Align with Business Goals.
 author: Shawn Wallace
-tags: [Event-Driven Architecture]
+tags: [Event-driven Architecture]
 thumbnail-img: /assets/img/eda.jpeg
 ---
 

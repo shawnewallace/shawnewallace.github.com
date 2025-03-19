@@ -3,7 +3,7 @@ layout: post
 subtitle: Practical patterns, integration strategies, and ideas for blending artificial intelligence into your existing systems.
 title: Evolving Enterprise Architectures with AI - Enhancing Business Processes Without Starting From Scratch
 author: Shawn Wallace
-tags: [Event-Driven Architecture, Architecture, Artificial Intelligence]
+tags: [Event-driven Architecture, Architecture, Artificial Intelligence]
 thumbnail-img: /assets/img/ai-in-your-architecture.webp
 ---
 
@@ -27,7 +27,7 @@ Your technolgy team should be able to integrate AI into your business processes 
 In a traditional layered (N-tier) setup you may have presentation, business logic, and data "layers". You may consider adding an “Intelligence Layer.” This new layer consumes data from existing storage and uses predictive models or recommendation engines to provide insights. The business logic layer then incorporates these insights to improve decision-making without rewriting existing functionality.
 2.	**Microservices and Service Meshes**:
 If your system is designed as microservices, you can integrate AI as a separate, well-defined service. For example, a recommendation microservice can evaluate user behavior data and return personalized product suggestions to the front-end application. API gateways or service meshes help manage routing, scaling, and security, ensuring your new AI service remains decoupled and easy to modify.
-3.	**Event-Driven Architecture (EDA)**:
+3.	**Event-driven Architecture (EDA)**:
 In EDA, services communicate through events. This pattern is ideal for embedding AI decision points. Suppose a customer places an order. Placing the order triggers a new event that in turn triggers a series of downstream events. An AI-powered fraud detection microservice can subscribe to the `Order Placed` event, score the order in real-time, and emit an `Order Risk Evaluated` event that downstream services use for approvals or declines.
 4.	**Pipelines and Streaming Integrations**:
 If your architecture already uses data streams (e.g., Kafka), consider inserting AI-based processors in the pipeline. Anomaly detection, predictive analytics, or sentiment analysis can run on these streams continuously, allowing you to act on insights as they emerge.
