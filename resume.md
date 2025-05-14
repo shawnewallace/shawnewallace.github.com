@@ -8,9 +8,6 @@ cover-img: /assets/img/resume-bg.jpg
 # Shawn Wallace
 The best way to get in contact is through the social media links in the footer or by email at shawn@wshawn.com.
 
-## Objective
-Highly accomplished Principal Architect with over three decades of experience in designing and delivering scalable and innovative software solutions. Seeking a challenging position as a Principal Architect in an organization to leverage experience in guiding teams through complex technology transformations and driving business success.
-
 ## Summary of Qualifications
 - Extensive experience as a Principal Architect, leading the design and development of enterprise-level software solutions for multiple companies in various industries.
 - Strong expertise in system architecture, software engineering, and application integration.
@@ -23,24 +20,23 @@ Highly accomplished Principal Architect with over three decades of experience in
 ## Professional Experience
 
 ### Principal Architect | Centric Consulting | Kettering, Ohio | July 2019 - Present
-Works with Centric’s national technology leadership team across all organizational groups. Serves as a subject matter expert for technology service offerings. Provides leadership for technical initiatives, both internally and for Centric’s customers. Technology evangelist and practitioner. 
+Works with Centric's national technology leadership team across all organizational groups. Serves as a subject matter expert for technology service offerings. Provides leadership for technical initiatives, both internally and for Centric's customers. Technology evangelist and practitioner. 
 
 Is a technical leader of projects and teams. Responsible for: 
 - Enterprise solution architecture and design 
-- Services strategy 
-- Technical components of IT Strategy 
+- Services strategy and technical components of IT Strategy 
 - Development coordination across multiple teams in local and international time zones 
-- Leading uplift of current platforms to adopt modern patterns and practices. 
-- Driving technology culture, seeking to make Centric a "destination employer" for technologists.
-<!-- - Lead a team of software architects, developers, and engineers to deliver customized software solutions for clients in various industries. -->
-- Collaborated with clients to understand their business objectives, analyze requirements, and design scalable and robust software architectures.
-- Conducted technology assessments and provided recommendations on suitable frameworks, tools, and platforms.
-- Developed architectural roadmaps, system design documents, and technical specifications.
-- Led the implementation of software solutions, ensuring adherence to better practices and industry standards.
-- Mentored and coached junior architects and developers to enhance their technical skills and foster a culture of continuous learning.
-- Provided technical guidance and support to project teams throughout the software development lifecycle.
-<!-- - Actively participated in client meetings, presentations, and workshops to gather feedback and refine solutions. -->
-- Built strong relationships with clients, fostering long-term partnerships and generating repeat business opportunities.
+- Leading uplift of current platforms to adopt modern patterns and practices
+- Driving technology culture, seeking to make Centric a "destination employer" for technologists
+- Leading AI/ML initiatives for business process optimization and automation
+- Implementing AI-assisted development practices and code generation solutions
+- Collaborating with clients to understand their business objectives, analyze requirements, and design scalable and robust software architectures
+- Conducting technology assessments and providing recommendations on suitable frameworks, tools, and platforms
+- Developing architectural roadmaps, system design documents, and technical specifications
+- Leading the implementation of software solutions, ensuring adherence to best practices and industry standards
+- Mentoring and coaching junior architects and developers to enhance their technical skills and foster a culture of continuous learning
+- Providing technical guidance and support to project teams throughout the software development lifecycle
+- Building strong relationships with clients, fostering long-term partnerships and generating repeat business opportunities
 
 ### Adjunct Professor | Columbus State Community College | Columbus, Ohio | June 2015 - June 2016
 Worked with CSCC modernize their computer science educational offerings by: 
@@ -51,20 +47,28 @@ Worked with CSCC modernize their computer science educational offerings by:
 - Coach existing instructors in newer and better practices and patterns 
 
 ### Senior Architect | Centric Consulting | Kettering, Ohio | February 2011 - July 2019
+Promoted to Senior Architect after demonstrating exceptional leadership and technical expertise. In this role:
+- Collaborated with cross-functional teams to design and develop scalable software architectures for enterprise-level applications
+- Conducted architectural reviews and implemented improvements to optimize performance, security, and maintainability
+- Worked closely with project managers, business analysts, and developers to ensure alignment of technical solutions with business goals
+- Implemented design patterns and best practices to enhance code quality and maintainability
+- Led efforts to modernize legacy systems, improving scalability, reliability, and user experience
+- Provided technical guidance and support to development teams, troubleshooting complex issues and ensuring timely delivery of projects
+
 ### Architect | Centric Consulting | Kettering, Ohio | August 2010 - February 2011
-- Collaborated with cross-functional teams to design and develop scalable software architectures for enterprise-level applications.
-- Conducted architectural reviews and implemented improvements to optimize performance, security, and maintainability.
-- Worked closely with project managers, business analysts, and developers to ensure alignment of technical solutions with business goals.
-- Implemented design patterns and best practices to enhance code quality and maintainability.
-- Led efforts to modernize legacy systems, improving scalability, reliability, and user experience.
-- Provided technical guidance and support to development teams, troubleshooting complex issues and ensuring timely delivery of projects.
+- Collaborated with cross-functional teams to design and develop scalable software architectures for enterprise-level applications
+- Conducted architectural reviews and implemented improvements to optimize performance, security, and maintainability
+- Worked closely with project managers, business analysts, and developers to ensure alignment of technical solutions with business goals
+- Implemented design patterns and best practices to enhance code quality and maintainability
+- Led efforts to modernize legacy systems, improving scalability, reliability, and user experience
+- Provided technical guidance and support to development teams, troubleshooting complex issues and ensuring timely delivery of projects
 
 ### Senior Solutions Architect | Heuristic Solutions, LLC | Washington, DC | July 2008 - August 2010
 - Worked as an Architect and team lead in the Consulting practice. I worked on projects (large and small) for many Metro DC Area companies focusing on the Microsoft Technology stack. 
 - Assisted in the creation of a new product business for Heuristics called LearningBuilder (http://www.learningbuilder.com/). In this role, I led the development of the first versions of this Learning Management system. 
 
 ### Director of Consulting Services | Allen, Williams & Hughes Co. | Dublin, Ohio | July 2007 - July 2008
-- Designed and deployed AWH’s MOSS/InfoPath environment supporting sales workflow/- processes, recruiting workflow/processes, collaboration, and corporate information - delivery 
+- Designed and deployed AWH's MOSS/InfoPath environment supporting sales workflow/- processes, recruiting workflow/processes, collaboration, and corporate information - delivery 
 - Utilized SharePoint Workflow, multiple data collection (forms) and reporting utilities, - and the Microsoft Taxonomy toolset to support content delivery.  
 - Deployment of GeoDocs Content Management System at numerous clients or in hosted - environments. Configuration, conversion, and refinement of ASP.NET modules and templates 
 - Developed and utilized taxonomies to support enterprise-wide content delivery strategies - (Union County Health Department, Ohio Education Association, Mount Carmel Health Plans)  
@@ -98,7 +102,7 @@ Worked with CSCC modernize their computer science educational offerings by:
 
 
 ### Application Developer | Metatec Corporation | Dublin, Ohio | September 1993 - November 1995
-Staff developer working on Metatec’s suite of commercial content applications created specifically for the new medium of CD-ROM. Worked both in customer facing solutions and on the data processing and indexing of searchable content.
+Staff developer working on Metatec's suite of commercial content applications created specifically for the new medium of CD-ROM. Worked both in customer facing solutions and on the data processing and indexing of searchable content.
 
 ## Education
 - Bachelor's Degree in Computer Science and Engineering | The Ohio State University | 1997
