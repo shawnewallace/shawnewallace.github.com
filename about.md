@@ -13,7 +13,7 @@ cover-img: /assets/img/about-bg.jpg
 Since 1992, I've been supporting business practices as a software developer, architect, technical manager, and entrepreneur. My career has spanned multiple industries and roles, always focused on delivering value through technology.
 
 ### Current Role
-Since 2019, I've served as a Principal Architect at Centric Consulting, where I am a leader in their National Technology Practice. In this role, I focus on:
+Since 2019 (been with Centric in multiple roles sincd 2010), I've served as a Principal Architect at Centric Consulting, where I am a leader in their National Technology Practice. In this role, I focus on:
 - Application Lifecycle Management
 - Enterprise Architecture
 - Digital Transformation
