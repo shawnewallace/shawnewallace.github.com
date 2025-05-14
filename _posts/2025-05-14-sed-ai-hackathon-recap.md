@@ -1,5 +1,6 @@
 ---
 layout: post
+subtitle: Exploring different approaches to AI integration in a real-world insurance claim processing scenario
 title: "AI Hackathon: Building the Future of Software Engineering"
 date: 2025-05-14 08:00:00 -0400
 categories: [Artificial Intelligence, Hackathon, Software Engineering]
@@ -10,7 +11,7 @@ social-share: true
 
 Last week, I participated in an internal AI hackathon at Centric Consulting, focused on building an AI-powered insurance claim triage system. The challenge was based on a fictional scenario involving Censurance, a hypothetical insurance company. The hackathon brought together developers, engineers, and AI enthusiasts from across our organization to tackle a real-world challenge in insurance claim processing.
 
-## The Challenge
+### The Challenge
 
 The hackathon centered on building an AI-powered API that could revolutionize how insurance claims are processed. In our fictional scenario, it takes Censurance staff 2-3 days to review each claim manually, causing customer frustration and leaving room for undetected fraud. Teams were tasked with building a proof-of-concept API that could:
 
@@ -20,7 +21,7 @@ The hackathon centered on building an AI-powered API that could revolutionize ho
 - Handle edge cases and ambiguous claims
 - Implement semantic logging for transparency
 
-## Team Approaches
+### Team Approaches
 
 The hackathon featured three distinct approaches:
 
@@ -30,7 +31,7 @@ The hackathon featured three distinct approaches:
 
 3. **Agent C Platform**: The third team used our [Agent C Framework](https://github.com/centricconsulting/agent_c_framework), an open-source framework for building interactive, tool-using AI agents. Agent C provides a runtime environment that handles streaming responses, parallel tool execution, and asynchronous operations. The team leveraged these capabilities to create a robust claim processing system that could handle multiple claims simultaneously while maintaining clear audit trails of the AI's decision-making process.
 
-## Quality Assurance
+### Quality Assurance
 
 The hackathon emphasized both solution quality and business effectiveness. Teams focused on four key areas:
 
@@ -41,7 +42,7 @@ The hackathon emphasized both solution quality and business effectiveness. Teams
 
 This focus ensured that solutions were both technically sound and valuable for the business case. Teams balanced AI response quality with associated costs, ensuring that automation benefits outweighed implementation expenses.
 
-## Key Learnings
+### Key Learnings
 
 The hackathon provided several insights:
 
@@ -50,20 +51,7 @@ The hackathon provided several insights:
 3. **Rapid Prototyping**: The time constraint forced us to focus on core functionality and iterate quickly
 4. **Future of Development**: We gained a deeper understanding of how AI will shape software engineering
 
-## The Experience
-
-The hackathon was a platform for:
-
-- Networking with colleagues across different practices
-- Learning from internal experts
-- Experimenting with cutting-edge technologies
-- Building solutions that could make an impact
-
-## Looking Forward
-
-The AI Hackathon demonstrated the potential of AI in transforming business processes. As we continue to explore this space, I'm excited to see how these innovations will transform not just software engineering, but entire industries like insurance.
-
-## Resources
+### Resources
 
 For those interested in building similar AI-powered solutions, here are some helpful resources:
 
@@ -73,6 +61,8 @@ For those interested in building similar AI-powered solutions, here are some hel
 - [.NET Aspire Dashboard](https://learn.microsoft.com/dotnet/aspire/fundamentals/dashboard/standalone)
 - [Agent C Framework](https://github.com/centricconsulting/agent_c_framework) - An open-source framework for building interactive, tool-using AI agents
 
----
+### Finally
 
-*What are your thoughts on the role of AI in transforming traditional industries? Have you participated in any similar hackathons? Share your experiences in the comments below!* 
+The AI Hackathon demonstrated the potential of AI in transforming business processes. As we continue to explore this space, I'm excited to see how these innovations will transform not just software engineering, but entire industries like insurance.
+
+What are your thoughts on the role of AI in transforming traditional industries? Have you participated in any similar hackathons? Share your experiences in the comments below. 
