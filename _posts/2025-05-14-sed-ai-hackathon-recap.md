@@ -7,6 +7,7 @@ categories: [Artificial Intelligence, Hackathon, Software Engineering]
 tags: [Artificial Intelligence, Hackathon, Software Engineering, Innovation]
 comments: true
 social-share: true
+thumbnail-img: /assets/img/human-ai.png
 ---
 
 Last week, I participated in an internal AI hackathon at Centric Consulting, focused on building an AI-powered insurance claim triage system. The challenge was based on a fictional scenario involving Censurance, a hypothetical insurance company. The hackathon brought together developers, engineers, and AI enthusiasts from across our organization to tackle a real-world challenge in insurance claim processing.
