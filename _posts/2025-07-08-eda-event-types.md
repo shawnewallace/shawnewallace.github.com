@@ -4,7 +4,7 @@ subtitle: "A comprehensive guide to event classifications and when to use them i
 title: "Understanding Event Types in Event-Driven Architecture"
 date: 2025-07-08 08:00:00 -0400
 categories: [Software Architecture, Event-Driven Architecture]
-tags: [Event-Driven Architecture, EDA, Software Architecture, Microservices, Domain Events, Integration Events, Event Sourcing, System Design]
+tags: [Event-driven Architecture, EDA, Software Architecture, Microservices, Domain Events, Integration Events, Event Sourcing, System Design]
 comments: true
 social-share: true
 thumbnail-img: /assets/img/event-types.png
