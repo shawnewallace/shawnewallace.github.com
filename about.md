@@ -10,16 +10,16 @@ cover-img: /assets/img/about-bg.jpg
 
 ## Professional Experience
 
-Since 1992, I've been supporting business practices as a software developer, architect, technical manager, and entrepreneur. My career has spanned multiple industries and roles, always focused on delivering value through technology.
+Since 1992, I've been passionate about leveraging technology to solve business problems and drive meaningful outcomes. My career has taken me from software development through architecture, technical management, and entrepreneurship, always with a focus on delivering value through thoughtful technology solutions.
 
 ### Current Role
-Since 2019 (been with Centric in multiple roles sincd 2010), I've served as a Principal Architect at Centric Consulting, where I am a leader in their National Technology Practice. In this role, I focus on:
+Since 2019, I've served as a Principal Architect at Centric Consulting, where I am a leader in their National Technology Practice. I've been with Centric in various roles since 2010. In this role, I focus on:
 - Application Lifecycle Management
 - Enterprise Architecture
 - Digital Transformation
 - Technical Strategy
 - AI/ML Solutions for Business Process Optimization
-- AI-Assisted Code Generation and Development
+- AI-Assisted Development and Code Generation
 
 ### Previous Experience
 
@@ -41,19 +41,33 @@ Since 2019 (been with Centric in multiple roles sincd 2010), I've served as a Pr
 
 #### Symeron Software (1998-2007)
 - Founding partner and Chief Technical Officer
-- Built AutoClick.com from the ground up
+- Led the design and development of AutoClick.com, a comprehensive automotive e-commerce platform
 - Managed development team and company infrastructure
-- Established strategic partnerships with banks and automobile manufacturers
+- Developed strategic business partnerships with financial institutions and automotive industry partners
 
 ## Military Service
 
 I am proud to have served in the United States Marine Corps as an infantry rifleman. I earned the title of Marine at Parris Island on March 30, 1990, and served in support of Operation Desert Shield/Storm. The values of honor, courage, and commitment instilled during my service continue to guide my professional and personal life.
+
+## Teaching & Speaking
+
+I'm passionate about sharing knowledge and contributing to the broader technology community:
+
+- **Adjunct Professor** at Columbus State Community College, teaching software development courses
+- **Conference Speaker** at various technology conferences and user groups
+- **Technical Writer** contributing insights on software architecture and development practices
+- **Mentor** to development teams and individual technologists
+
+For a comprehensive view of my speaking engagements, publications, and detailed work history, please visit my [complete resume](/resume).
 
 ## Current Focus
 
 - Enterprise Architecture and Digital Transformation
 - Technical Leadership and Mentorship
 - Software Development Best Practices
+- AI/ML Integration in Business Processes
+- AI-Assisted Development and Code Generation
+- Event-Driven Architecture and Microservices
 - Emerging Technologies and Innovation
 
 ## Connect
