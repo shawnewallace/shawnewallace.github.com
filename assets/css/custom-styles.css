@@ -29,3 +29,30 @@
 		max-width: 1600px;
 	}
 }
+
+/* Responsive figure styles for posts */
+.post-figure {
+	margin: 1.25rem 0;
+	overflow: hidden;
+}
+.post-figure img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+.post-figure .fig-caption {
+	font-size: 0.9rem;
+	color: #666;
+	margin-top: 0.4rem;
+}
+
+/* Floated figures for larger screens */
+@media (min-width: 768px) {
+	.figure-left { float: left; width: 48%; margin-right: 2%; }
+	.figure-right { float: right; width: 48%; margin-left: 2%; }
+	.post-figure { clear: both; }
+}
+
+@media (max-width: 767px) {
+	.figure-left, .figure-right { width: 100%; float: none; margin: 0; }
+}

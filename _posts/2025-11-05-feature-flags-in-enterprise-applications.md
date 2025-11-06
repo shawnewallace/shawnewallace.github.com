@@ -7,7 +7,7 @@ categories: [Software Architecture]
 tags: [Software Architecture, System Design]
 comments: true
 social-share: true
-full-width: false
+full-width: true
 thumbnail-img: /assets/img/feature-flags.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
 ---

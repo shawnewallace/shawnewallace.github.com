@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: "Once a Marine, Always a Marine"
-title: "Happy Birthday to the United States Marine Corps"
+title: "Happy 250th Birthday to the United States Marine Corps"
 date: 2025-11-10 08:00:00 -0400
 tags: [Personal]
 comments: true
@@ -11,7 +11,8 @@ thumbnail-img: /assets/img/ega.jpg
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
 ---
 
-This milestone is a moment to honor the legacy, service, and sacrifice of Marines past and present.
+**On November 10, 2025, the United States Marine Corps turns 250 years old.**  
+It all began in [Tun Tavern](https://en.wikipedia.org/wiki/Tun_Tavern) in 1775 — yes, the Marine Corps was founded in a bar — and ever since, Marines have built a legacy of service, sacrifice, and dependability that continues to this day.
 
 <style>
 .post blockquote {
