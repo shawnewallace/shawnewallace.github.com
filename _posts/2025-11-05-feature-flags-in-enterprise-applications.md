@@ -10,12 +10,13 @@ social-share: true
 thumbnail-img: /assets/img/feature-flags.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
 ---
-
 # Designing with Confidence: Using Feature Flags in Enterprise Applications
 
 Feature flags have become one of the most powerful tools in the modern architect’s toolkit. They allow teams to control application behavior dynamically without redeploying code. Used well, they create the safety net that lets organizations move faster while reducing risk.
 
 Before implementing feature flags, it helps to think of them not as a developer shortcut, but as an architectural capability. A good design approach treats feature flags as part of the platform, not just part of the code.
+
+{% include mermaid-script.html %}
 
 ---
 

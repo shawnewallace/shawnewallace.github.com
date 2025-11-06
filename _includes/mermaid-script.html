@@ -1,0 +1,25 @@
+<!-- Mermaid client-side renderer: include this once site-wide or per-post to render Mermaid diagrams in the browser -->
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  // Initialize mermaid without auto-start; we'll convert code blocks to .mermaid divs first
+  mermaid.initialize({ startOnLoad: false, securityLevel: 'strict', theme: 'default' });
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // Convert fenced code blocks (<pre><code class="language-mermaid">) to <div class="mermaid">text</div>
+    document.querySelectorAll('pre > code.language-mermaid, pre > code.mermaid, code.language-mermaid').forEach(function(code) {
+      var parent = code.parentElement;
+      var diagramText = code.textContent.trim();
+      var d = document.createElement('div');
+      d.className = 'mermaid';
+      d.textContent = diagramText;
+      if (parent && parent.tagName.toLowerCase() === 'pre') {
+        parent.parentElement.replaceChild(d, parent);
+      } else {
+        code.parentElement.replaceChild(d, code);
+      }
+    });
+
+    // Render all mermaid diagrams found on the page
+    mermaid.init();
+  });
+</script>
