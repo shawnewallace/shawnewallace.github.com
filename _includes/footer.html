@@ -1,0 +1,15 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    <p>
+      <a href="https://github.com/shawnewallace" target="_blank" rel="noopener">GitHub</a> |
+      <a href="https://www.linkedin.com/in/shawnewallace/" target="_blank" rel="noopener">LinkedIn</a> |
+      <a href="https://www.goodreads.com/user/show/19801180-shawn-wallace" target="_blank" rel="noopener">Goodreads</a> |
+      <a href="{{ '/about' | relative_url }}">About</a> |
+      <a href="{{ '/resume' | relative_url }}">Resume</a>
+    </p>
+  </div>
+
+  <!-- Load Mermaid across the site for client-side rendering of diagrams -->
+  {% include mermaid-script.html %}
+</footer>
