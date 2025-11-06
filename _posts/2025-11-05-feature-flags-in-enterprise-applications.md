@@ -85,7 +85,7 @@ Here’s a simple vendor-neutral model that shows how feature flags fit into a m
 ```mermaid
 flowchart TB
     subgraph Edge["API Gateway Layer"]
-        KONG["Kong Gateway<br/>(flagged routes & policies)"]
+        APIGW["Kong Gateway, Azure API Managment, AWS API Gateway<br/>(flagged routes & policies)"]
     end
 
     subgraph App["Application Layer"]
@@ -101,10 +101,10 @@ flowchart TB
 
     subgraph Integration["Integration & Observability"]
         OBS["Observability<br/>(Logs, Metrics, Traces)"]
-        EDA["Event Stream (Kafka)<br/>Schema Gate / Dual-write"]
+        EDA["Event Stream (Kafka, Azure Eventgrid, AWS SNS, etc...)<br/>Schema Gate / Dual-write"]
     end
 
-    KONG --> API
+    APIGW --> API
     API --> SDK
     CTX --> SDK
     SDK --> SVC
@@ -119,7 +119,7 @@ flowchart TB
     classDef gray fill:#f5f5f5,stroke:#666,color:#000;
     classDef purple fill:#e1d5e7,stroke:#9673a6,color:#000;
     classDef lightgreen fill:#d9ead3,stroke:#93c47d,color:#000;
-    class KONG,API blue
+    class APIGW,API blue
     class SDK green
     class CTX yellow
     class SVC red
