@@ -16,8 +16,6 @@ Feature flags have become one of the most powerful tools in the modern architect
 
 Before implementing feature flags, it helps to think of them not as a developer shortcut, but as an architectural capability. A good design approach treats feature flags as part of the platform, not just part of the code.
 
-{% include mermaid-script.html %}
-
 ---
 
 ## What Feature Flags Enable
