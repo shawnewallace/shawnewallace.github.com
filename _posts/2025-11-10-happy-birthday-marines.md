@@ -2,7 +2,7 @@
 layout: post
 subtitle: "Once a Marine, Always a Marine"
 title: "Happy 250th Birthday to the United States Marine Corps"
-date: 2025-11-10 08:00:00 -0400
+date: 2025-11-09 08:00:00 -0400
 tags: [Personal]
 comments: true
 social-share: true
