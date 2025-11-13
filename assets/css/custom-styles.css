@@ -56,3 +56,12 @@
 @media (max-width: 767px) {
 	.figure-left, .figure-right { width: 100%; float: none; margin: 0; }
 }
+
+/* Blockquote styling for posts */
+.post blockquote {
+	font-style: italic;
+	color: #333;
+	border-left: 4px solid #ccc;
+	padding-left: 1rem;
+	margin-left: 0;
+}

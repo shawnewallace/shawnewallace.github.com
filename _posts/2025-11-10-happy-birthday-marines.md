@@ -11,18 +11,8 @@ thumbnail-img: /assets/img/ega.jpg
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
 ---
 
-**On November 10, 2025, the United States Marine Corps turns 250 years old.**  
+**On November 10, 2025, the United States Marine Corps turns 250 years old.**
 It all began in [Tun Tavern](https://en.wikipedia.org/wiki/Tun_Tavern) in 1775 — yes, the Marine Corps was founded in a bar — and ever since, Marines have built a legacy of service, sacrifice, and dependability that continues to this day.
-
-<style>
-.post blockquote {
-  font-style: italic;
-  color: #333;
-  border-left: 4px solid #ccc;
-  padding-left: 1rem;
-  margin-left: 0;
-}
-</style>
 
 I had the honor of serving in the Marine Corps from 1990 to 1996. What follows is a short reflection on that time — the people I served alongside and the lessons that still shape how I live and work today.
 
@@ -31,9 +21,9 @@ I had the honor of serving in the Marine Corps from 1990 to 1996. What follows i
   <figcaption class="fig-caption">Lima Company, 3/25, 2nd Platoon fire team — Scott Derkach, Shane Downey, Darren Riley, and me (1991)</figcaption>
 </figure>
 
-The Marine Corps’ story is written by countless individuals over centuries — from 1st Lieutenant [Presley O'Bannon](https://en.wikipedia.org/wiki/Presley_O%27Bannon) and Major General [Smedley Butler](https://en.wikipedia.org/wiki/Smedley_Butler), to legends like Lieutenant General [Chesty Puller](https://en.wikipedia.org/wiki/Chesty_Puller), heroes such as Medal of Honor recipients Gunnery Sergeant [John Basilone](https://en.wikipedia.org/wiki/John_Basilone), Corporal [Kyle Carpenter](https://en.wikipedia.org/wiki/Kyle_Carpenter), and Sergeant [Dakota Meyer](https://en.wikipedia.org/wiki/Dakota_Meyer).
+The Marine Corps' story is written by countless individuals over centuries — from 1st Lieutenant [Presley O'Bannon](https://en.wikipedia.org/wiki/Presley_O%27Bannon), hero of the First Barbary War, and two-time Medal of Honor recipient Major General [Smedley Butler](https://en.wikipedia.org/wiki/Smedley_Butler), to the legendary Lieutenant General [Chesty Puller](https://en.wikipedia.org/wiki/Chesty_Puller), the most decorated Marine in history, and modern heroes such as Medal of Honor recipients Gunnery Sergeant [John Basilone](https://en.wikipedia.org/wiki/John_Basilone), Corporal [Kyle Carpenter](https://en.wikipedia.org/wiki/Kyle_Carpenter), and Sergeant [Dakota Meyer](https://en.wikipedia.org/wiki/Dakota_Meyer).
 
-Each generation adds its own small piece to that legacy. I was fortunate to serve among good Marines, dependable people who showed up every day and did the work, no matter the conditions.
+While these names stand out in Marine Corps history, each generation adds its own chapter to that legacy — not through headlines, but through steady service and daily commitment. I was fortunate to serve among good Marines, dependable people who showed up every day and did the work, no matter the conditions.
 
 > “No better friend, no worse enemy.”  
 > — Traditional Marine saying  
