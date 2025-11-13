@@ -6,16 +6,14 @@ cover-img: /assets/img/resume-bg.jpg
 ---
 
 # Shawn Wallace
-The best way to get in contact is through the social media links in the footer or by email at shawn@wshawn.com.
+The best way to contact me is through the social media links in the footer or by email at shawn@wshawn.com.
 
 ## About
-I'm a Principal Architect at Centric Consulting with over three decades of experience in software development and system architecture. My current work focuses on AI integration and event-driven architectures, helping organizations adopt modern patterns while maintaining practical, scalable solutions. I enjoy speaking at industry events, leading internal innovation initiatives, and staying at the forefront of emerging technologies.
+I'm a Principal Architect at Centric Consulting with more than 30 years of experience in software development and system architecture. My current work focuses on AI integration and event-driven architectures, helping organizations adopt modern patterns while maintaining practical, scalable solutions. I enjoy speaking at industry events, leading internal innovation initiatives, and staying at the forefront of emerging technologies.
 
 ## Summary of Qualifications
-- Extensive experience as a Principal Architect, leading the design and development of enterprise-level software solutions for multiple companies in various industries.
-- Focus on AI integration, event-driven architectures, and cloud-native application design.
-- Leading AI adoption initiatives and multi-agent orchestration, regularly speaking at industry events and driving internal innovation initiatives.
-- Strong expertise in system architecture, software engineering, and application integration with focus on modern distributed systems.
+- Principal Architect with extensive experience leading enterprise-level software architecture, system design, and application integration across multiple industries with focus on modern distributed systems.
+- Deep expertise in AI integration, multi-agent orchestration, event-driven architectures, and cloud-native application design, leading adoption initiatives internally and for clients.
 - Proven ability to analyze complex business requirements and translate them into scalable technical solutions.
 - Proficient in a wide range of programming languages, frameworks, and technologies including AI/ML tools and platforms.
 - Track record of successfully managing cross-functional teams and collaborating with stakeholders to deliver high-quality solutions on time and within budget.
@@ -27,7 +25,7 @@ I'm a Principal Architect at Centric Consulting with over three decades of exper
 ### Principal Architect | Centric Consulting | Kettering, Ohio | July 2019 - Present
 Works with Centric's national technology leadership team across all organizational groups. Serves as a subject matter expert for technology service offerings. Provides leadership for technical initiatives, both internally and for Centric's customers. Technology evangelist and practitioner.
 
-Is a technical leader of projects and teams. Responsible for: 
+Serves as technical leader of projects and teams, responsible for: 
 
 **AI Innovation & Adoption:**
 - Leading internal AI innovation initiatives including multi-agent orchestration for building interactive AI agents
@@ -80,8 +78,8 @@ Collaborated with CSCC to modernize their computer science educational offerings
 - Provided technical guidance and support to development teams, troubleshooting complex issues and ensuring timely delivery of projects
 
 ### Senior Solutions Architect | Heuristic Solutions, LLC | Washington, DC | July 2008 - August 2010
-- Worked as an Architect and team lead in the Consulting practice. I worked on projects (large and small) for many Metro DC Area companies focusing on the Microsoft Technology stack. 
-- Assisted in the creation of a new product business for Heuristics called LearningBuilder (http://www.learningbuilder.com/). In this role, I led the development of the first versions of this Learning Management system. 
+- Worked as an Architect and team lead in the Consulting practice. Worked on projects (large and small) for many Metro DC Area companies focusing on the Microsoft Technology stack.
+- Assisted in the creation of a new product business for Heuristics called LearningBuilder (http://www.learningbuilder.com/). In this role, led the development of the first versions of this Learning Management system. 
 
 ### Director of Consulting Services | Allen, Williams & Hughes Co. | Dublin, Ohio | July 2007 - July 2008
 - Managed consulting engagements and participated in the sales cycle for new business opportunities
