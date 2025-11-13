@@ -81,12 +81,12 @@ Each layer involves tradeoffs in latency, caching, and failure behavior. Plan fo
 
 ## Reference Architecture
 
-Here’s a simple vendor-neutral model that shows how feature flags fit into a modern distributed system:
+The following diagram illustrates a vendor-neutral architecture showing how feature flags integrate across multiple layers of a distributed system—from the API gateway through application services to observability and event streaming:
 
 ```mermaid
 flowchart TB
     subgraph Edge["API Gateway Layer"]
-        APIGW["Kong Gateway, Azure API Managment, AWS API Gateway<br/>(flagged routes & policies)"]
+        APIGW["Kong Gateway, Azure API Management, AWS API Gateway<br/>(flagged routes & policies)"]
     end
 
     subgraph App["Application Layer"]
@@ -173,7 +173,8 @@ sequenceDiagram
 
 
 ## Implementation Principles
-These principles are a compact set of engineering rules to guide how teams design, operate, and govern feature flags. They prioritize safety, observability, and portability — treat them as a starting point and adapt them to your organization's scale and risk profile.
+
+A successful feature flag strategy requires more than just the right tools—it demands clear engineering principles that guide design, operation, and governance decisions. The following principles prioritize safety, observability, and portability. Use them as a foundation and adapt them to your organization's scale and risk profile.
 
 | Principle | Description |
 |------------|--------------|
