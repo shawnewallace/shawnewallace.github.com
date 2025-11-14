@@ -1,9 +1,96 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: Home
-layout: home
+layout: page
+title: Shawn Wallace
+subtitle: Principal Architect | Technology Leader | AI Innovation
 cover-img: /assets/img/home-bg.jpg
-
 ---
+
+<div class="home-intro">
+  <h2>Welcome</h2>
+  <p>I'm a Principal Architect at Centric Consulting with more than 30 years of experience in software development and system architecture. My current work focuses on AI integration, event-driven architectures, and helping organizations adopt modern patterns while maintaining practical, scalable solutions.</p>
+  <p>I'm passionate about leveraging emerging technologies to solve complex business problems, mentoring development teams, and sharing insights through speaking engagements and technical writing.</p>
+</div>
+
+<hr class="small">
+
+<div class="featured-content">
+  <h2>Featured</h2>
+  <div class="row">
+    <div class="col-md-3">
+      <div class="featured-card">
+        <h3><a href="/about">About Me</a></h3>
+        <p>Learn more about my professional journey, military service, and current focus areas in technology.</p>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="featured-card">
+        <h3><a href="/resume">Resume/CV</a></h3>
+        <p>Comprehensive overview of my experience, skills, and professional accomplishments.</p>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="featured-card">
+        <h3><a href="/now">What I'm Doing Now</a></h3>
+        <p>Current projects, learning initiatives, and areas of focus.</p>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="featured-card">
+        <h3>Recommended</h3>
+        <ul class="interesting-links-list">
+          {% for link in site.data.interesting_links limit:3 %}
+          <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="small">
+
+<div class="recent-posts">
+  <h2>Recent Posts</h2>
+  <div class="posts-list">
+    {% for post in site.posts limit:5 %}
+    <article class="post-preview">
+      <a href="{{ post.url | relative_url }}">
+        <h3 class="post-title">{{ post.title }}</h3>
+      </a>
+      {% if post.subtitle %}
+      <h4 class="post-subtitle">{{ post.subtitle }}</h4>
+      {% endif %}
+      <p class="post-meta">
+        Posted on {{ post.date | date: site.date_format }}
+      </p>
+      <div class="post-entry-container">
+        {% if post.thumbnail-img %}
+        <div class="post-image">
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.thumbnail-img | relative_url }}" alt="{{ post.title }}">
+          </a>
+        </div>
+        {% endif %}
+        <div class="post-entry">
+          {{ post.excerpt | strip_html | xml_escape | truncatewords: 50 }}
+          {% assign excerpt_word_count = post.excerpt | number_of_words %}
+          {% if post.content != post.excerpt or excerpt_word_count > 50 %}
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+          {% endif %}
+        </div>
+      </div>
+      {% if post.tags.size > 0 %}
+      <div class="blog-tags">
+        Tags:
+        {% for tag in post.tags %}
+        <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  <p class="text-center">
+    <a href="/posts" class="btn btn-primary">View All Posts</a>
+  </p>
+</div>
