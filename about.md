@@ -6,7 +6,7 @@ show-avatar: false
 cover-img: /assets/img/about-bg.jpg
 ---
 
-<img align="right" width="202px" height="254px" src="/assets/img/headshot.jpg">
+<img align="right" width="202px"  src="/assets/img/2025-headshot.jpg">
 
 ## Professional Experience
 
