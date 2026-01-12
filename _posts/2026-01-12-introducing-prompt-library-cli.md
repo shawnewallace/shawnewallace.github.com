@@ -15,7 +15,7 @@ thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
 
 ## Introduction
 
-A few months ago, I shared my [personal prompt library](https://shawnewallace.com/2025-11-19-building-a-personal-prompt-library/) - a curated collection of AI assistant prompts, agents, and configurations organized by development scenario. While the library solved the problem of prompt reuse and organization, I quickly discovered a new friction point: the manual setup process. Developers had to navigate GitHub, copy files, and manually configure their projects to use the agents and prompts. Today, I'm releasing **prompt-library CLI** - an npm package that makes installing and managing AI assistants as simple as `npm install`.
+A few months ago, I shared my [personal prompt library](https://www.shawnewallace.com/2025-11-19-building-a-personal-prompt-library/) - a curated collection of AI assistant prompts, agents, and configurations organized by development scenario. While the library solved the problem of prompt reuse and organization, I quickly discovered a new friction point: the manual setup process. Developers had to navigate GitHub, copy files, and manually configure their projects to use the agents and prompts. Today, I'm releasing **prompt-library CLI** - an npm package that makes installing and managing AI assistants as simple as `npm install`.
 
 ## The Problem: Installation Friction
 
