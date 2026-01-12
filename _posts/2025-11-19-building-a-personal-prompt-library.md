@@ -7,7 +7,7 @@ categories: [Artificial Intelligence, Software Engineering]
 tags: [Artificial Intelligence, Software Engineering, Prompt Engineering, Developer Tools, Productivity]
 comments: true
 social-share: true
-thumbnail-img: /assets/img/prompt-library-hero.png
+thumbnail-img: /assets/img/prompt-library.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
 ---
 
@@ -17,17 +17,13 @@ As AI-powered development tools like GitHub Copilot and Claude Code become integ
 
 ## Why Build a Prompt Library?
 
-Even after collecting just a handful of effective prompts, I quickly realized I was facing a new problem: I kept retyping the same instructions across different projects and AI tools. A code review prompt that worked well in one repository needed to be manually copied to another. A debugging template I refined for Python needed the same adjustments when I used it for TypeScript. The same architectural guidance kept appearing in multiple project configurations.
-
-The need for aggregation and reuse became obvious almost immediately. Rather than scattering effective prompts across chat histories, project files, and personal notes, a structured library solves this problem by providing:
+Over the past year of working with AI coding assistants, I've noticed a pattern: the most productive sessions happen when the AI has clear context about what I'm building, the patterns I'm following, and the standards I expect. Rather than repeatedly explaining these preferences, a well-structured prompt library provides:
 
 1. **Consistent Context Across Projects**: Define once, reuse everywhere
 2. **Scenario-Specific Guidance**: Different projects need different approaches
 3. **Team Alignment**: Share prompts to ensure everyone follows the same patterns
 4. **Continuous Improvement**: Refine prompts based on real-world results
 5. **Knowledge Preservation**: Capture best practices as they emerge
-
-What started as a simple collection of a few prompts naturally evolved into a structured system once I recognized this pattern: the prompts I found most valuable were the ones I needed to use repeatedly.
 
 ## Structure and Organization
 
@@ -142,23 +138,6 @@ Since building this library, I've noticed several improvements in my AI-assisted
 
 **Team Consistency**: When working with colleagues, sharing scenario configurations ensures everyone's AI assistant provides suggestions that align with team standards.
 
-## "Stealing" and Adapting Prompts
-
-One of the most valuable aspects of building this library has been collecting and adapting prompts I encounter in the wild. I'm constantly "stealing" effective prompts from:
-
-- **Colleagues**: When someone shares a particularly effective prompt during pair programming or code reviews, I add it to the library
-- **Online Communities**: Blog posts, GitHub repositories, and developer forums are goldmines for well-crafted prompts
-- **AI Tool Documentation**: Official guides often contain gems that work better than my initial attempts
-- **Trial and Error**: Sometimes the best prompts come from iterating on something I found elsewhere
-
-The key is treating found prompts as starting points rather than final products. I adapt them to:
-- Match my specific development context and patterns
-- Align with team conventions and standards  
-- Work across multiple AI tools in my workflow
-- Fit the structure of my scenario-based organization
-
-This "collect, adapt, refine" approach means I'm building on the community's collective wisdom rather than reinventing the wheel. Every prompt in the library represents the best version of something I've tried, whether I wrote it from scratch or adapted it from somewhere else.
-
 ## The Broader Ecosystem
 
 This library stands on the shoulders of some excellent community resources. I've been inspired by and learned from:
@@ -187,32 +166,6 @@ I encourage you to:
 1. Explore the repository and try the scenarios that match your work
 2. Adapt the prompts to your specific needs and team standards
 3. Share feedback or contribute improvements
-
-## Contributing to the Library
-
-This prompt library is designed to be a community resource, and contributions are welcome. Whether you've refined an existing prompt, discovered a new pattern, or built out an entirely new scenario, your experience can help others.
-
-### Ways to Contribute
-
-**Share Your Prompts**: If you've developed prompts that work well for your workflow, consider contributing them back. The most valuable contributions often come from real-world usage and iteration.
-
-**Add New Scenarios**: Working in a domain not yet covered? Mobile development, game development, embedded systems, and many other specializations would benefit from dedicated scenarios.
-
-**Improve Documentation**: Clear examples and usage guides make prompts more accessible. If you've found a particularly effective way to use a prompt, document it.
-
-**Report What Works (and What Doesn't)**: Feedback on prompt effectiveness helps everyone. If a prompt produces consistently good results or needs refinement, that information is valuable.
-
-### Contribution Guidelines
-
-When contributing to the library:
-
-1. **Follow the Structure**: Place scenario-specific content in the appropriate `scenarios/{scenario}/` directory, and cross-cutting resources in `shared/`
-2. **Document Usage**: Include clear examples showing when and how to use the prompt
-3. **Test Your Prompts**: Verify prompts work with the tools you're targeting (Claude Code, GitHub Copilot, etc.)
-4. **Explain Adaptations**: If you've adapted a prompt from elsewhere, note what you changed and why
-5. **Keep It Practical**: Focus on prompts that solve real development challenges
-
-The goal is to build a collection that's immediately useful to developers while remaining easy to maintain and extend. Even small contributions—fixing typos, clarifying instructions, or sharing a single effective prompt—help improve the library for everyone.
 
 ## Conclusion
 

@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "tool": "github-copilot",
+  "installedAt": "2026-01-12T18:06:52.461Z",
+  "items": {
+    "agents": {
+      "hemingway": {
+        "name": "Hemingway",
+        "version": "1.0.0",
+        "installedAt": "2026-01-12T18:06:52.467Z",
+        "sourcePath": "shared/agents/clarity-editor.agent.md",
+        "targetPath": "/Users/shawn/src/PERSONAL/shawnewallace.github.com/.github/agents/hemingway.md",
+        "sha": "21a8683541ba1790bb97c39186891b27b67b03506a5a60b1fdc181734a2f3e1f"
+      }
+    },
+    "prompts": {
+      "writing-clarity": {
+        "name": "Writing Clarity Review",
+        "version": "1.0.0",
+        "installedAt": "2026-01-12T18:36:34.271Z",
+        "sourcePath": "shared/prompts/review-writing-clarity.prompt.md",
+        "targetPath": "/Users/shawn/src/PERSONAL/shawnewallace.github.com/.github/prompts/writing-clarity.md",
+        "sha": "30d15498e80d52766fb509f16ff6eada506d23c45064df4fb31c2c763a466646"
+      }
+    }
+  }
+}
