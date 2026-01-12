@@ -72,4 +72,4 @@ For speaking engagements and publications, see my [resume](/resume).
 
 ## Connect
 
-Find me on [LinkedIn](https://www.linkedin.com/in/shawnewallace/) or follow this blog.
+Find me on [LinkedIn](https://www.linkedin.com/in/shawnwallace/) or follow this blog.
