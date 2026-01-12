@@ -420,7 +420,7 @@ prompt-library init
 - 📦 [npm package](https://www.npmjs.com/package/@shawnwallace/prompt-library)
 - 💻 [GitHub repository](https://github.com/shawnewallace/prompt-library)
 - 📚 [CLI documentation](https://github.com/shawnewallace/prompt-library/tree/main/cli)
-- 📝 [Original library post](https://shawnewallace.com/2025-11-19-building-a-personal-prompt-library/)
+- 📝 [Original library post](https://www.shawnewallace.com/2025-11-19-building-a-personal-prompt-library/)
 
 ## Finally
 
