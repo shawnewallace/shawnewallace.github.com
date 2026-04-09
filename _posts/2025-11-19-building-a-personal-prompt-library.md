@@ -7,8 +7,9 @@ categories: [Artificial Intelligence, Software Engineering]
 tags: [Artificial Intelligence, Software Engineering, Prompt Engineering, Developer Tools, Productivity]
 comments: true
 social-share: true
-thumbnail-img: /assets/img/prompt-library.png
+thumbnail-img: /assets/img/prompt-library-introduction.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
+
 ---
 
 ## Introduction
