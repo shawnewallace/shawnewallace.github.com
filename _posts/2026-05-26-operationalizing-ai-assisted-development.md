@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Every Developer Has AI. Your Team Doesn't."
+title: "Your Team Isn't Using AI. Your Developers Are."
 subtitle: "From individual wins to team capability"
 date: 2026-05-26 08:00:00 -0400
 categories: [Software Engineering, AI]
@@ -16,7 +16,7 @@ In my [last post](/2026-02-14-senior-devs-have-entered-the-chat/), I wrote about
 The people who know their craft the most are extracting the most from these tools. That's great news for individual senior developers. It's a management problem waiting to happen.
 
 <figure class="post-figure">
-  <img src="/assets/img/operationalizing-ai-assisted-dev.png" alt="Every Developer Has AI. Your Team Doesn't." />
+  <img src="/assets/img/operationalizing-ai-assisted-dev.png" alt="Your Team Isn't Using AI. Your Developers Are." />
   <figcaption class="fig-caption">From individual wins to team capability</figcaption>
 </figure>
 
