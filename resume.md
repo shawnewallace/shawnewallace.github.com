@@ -85,7 +85,7 @@ Lead enterprise AI architecture and technical strategy across financial services
 
 ---
 
-### Chief Technical Officer | Symeron Software, Inc.
+### Co-founder & Chief Technical Officer | Symeron Software, Inc.
 **August 1998 – July 2007  |  Columbus, OH**
 
 - Designed and led development of AutoClick, a SaaS CRM/SFA platform for the automotive retail market — scaled to 2,000+ dealership organizations managing 2M+ prospects nationwide

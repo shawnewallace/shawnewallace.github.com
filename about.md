@@ -18,34 +18,29 @@ I've worked in technology since 1992, moving from software development through a
 
 ### Current Role
 Since 2019, I've been a Principal Architect at Centric Consulting (joined in 2010). I focus on:
-- Application Lifecycle Management
-- Enterprise Architecture
-- Digital Transformation
-- Technical Strategy
-- AI/ML Solutions for Business Process Optimization
-- AI-Assisted Development and Code Generation
+- Agentic AI systems and LLM-based solution architecture
+- Event-driven architecture (EDA, CQRS, Event Sourcing)
+- Enterprise AI adoption and AI-first development enablement
+- Technical strategy and architecture leadership across financial services, aviation, and insurance
 
 ### Previous Experience
 
 #### Centric Consulting (2010-2019)
-- Architect in Columbus, Ohio Business Unit
-- Application Lifecycle Management and Application Development Service Offerings
-- Enterprise client work
+- Senior Architect delivering enterprise software architecture across insurance, financial services, and healthcare
+- Legacy modernization, cloud migration, and cross-functional team leadership
 
 #### Heuristic Solutions (2008-2010)
-- Solutions Architect
-- Development team lead for enterprise software
-- Built [Learning Builder](https://www.heuristics.net/learningbuilder/) credentialing platform
-- Washington, DC area implementations
+- Solutions Architect and development team lead
+- Built [LearningBuilder](https://www.heuristics.net/learningbuilder/) credentialing platform from inception through first release
 
 #### Allen, Williams & Hughes (2007-2008)
 - Director of Consulting Services
 - IT consulting and professional services
 
 #### Symeron Software (1998-2007)
-- Founding partner and CTO
-- Built AutoClick.com automotive e-commerce platform
-- Development team and infrastructure
+- Co-founder and CTO
+- Built AutoClick, a SaaS CRM/SFA platform for automotive retail — scaled to 2,000+ dealerships nationwide
+- Received US patent for the platform's customer management system architecture
 
 ## Military Service
 
@@ -53,22 +48,11 @@ I served in the United States Marine Corps as an infantry rifleman. Earned the t
 
 ## Teaching & Speaking
 
-- Adjunct Professor at Columbus State Community College
-- Conference speaker at technology conferences and user groups
-- Technical writer on software architecture and development
-- Mentor to development teams
+- Speaker at CodeMash, StirTrek, Global Azure, and Central Ohio user groups on topics including agentic AI, event-driven architecture, and enterprise development
+- Adjunct faculty at Columbus State Community College (2015–2016) — redesigned CS curriculum and taught C#
+- Technical blog at shawnewallace.com covering AI integration, agentic development, and event-driven architecture
 
 For speaking engagements and publications, see my [resume](/resume).
-
-## Current Focus
-
-- Enterprise Architecture and Digital Transformation
-- Technical Leadership and Mentorship
-- Software Development Best Practices
-- AI/ML Integration in Business Processes
-- AI-Assisted Development and Code Generation
-- Event-Driven Architecture and Microservices
-- Emerging Technologies and Innovation
 
 ## Connect
 
