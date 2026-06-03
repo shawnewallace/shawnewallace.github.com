@@ -23,6 +23,11 @@ For decades, the case for these artifacts was a discipline argument: do it becau
 
 A vague one produces vague work just as fast. The cost of ambiguity moved from “someday” to “this sprint.”
 
+<figure class="post-figure">
+  <img src="/assets/img/ai-dev-flow.png" alt="The Artifact is the Architecture" />
+  <figcaption class="fig-caption">From individual wins to team capability</figcaption>
+</figure>
+
 ## A Chain Where Ambiguity Compounds
 
 The modern AI-assisted lifecycle increasingly looks like this:
