@@ -2,7 +2,7 @@
 layout: post
 title: "We Don't Have All the Answers — And That's the Point"
 subtitle: "How the AI era is forcing an honest reckoning with what consulting actually is"
-date: 2026-06-24 00:00:00 -0400
+date: 2026-07-01 00:00:00 -0400
 categories: [AI, Consulting]
 tags: [ai, consulting, management-consulting, organizational-change]
 description: "The old consulting model of knowing more than your client doesn't survive contact with AI. Here's what's actually happening, and what the new model looks like."
