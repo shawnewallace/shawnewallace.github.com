@@ -48,9 +48,9 @@ A consultant working across five clients in three different industries isn't run
 
 The client working alone is running one experiment.
 
-**The consultant's value isn't superior knowledge; it's superior sample size.
+** The consultant's value isn't superior knowledge; it's superior sample size.
 
-In a domain where everyone is learning in real time, sample size compounds fast.**
+In a domain where everyone is learning in real time, sample size compounds fast. **
 
 That's a different pitch than the traditional model. Not "we have the answers" but "we've seen more attempts, in more contexts, and we can tell you which patterns are showing up across them." That's honest and useful.
 
