@@ -5,7 +5,6 @@ title: "Understanding Event Types in Event-Driven Architecture"
 date: 2025-07-08 08:00:00 -0400
 categories: [Software Architecture, Event-Driven Architecture]
 tags: [Event-driven Architecture, EDA, Software Architecture, Microservices, Domain Events, Integration Events, Event Sourcing, System Design]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/event-types.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

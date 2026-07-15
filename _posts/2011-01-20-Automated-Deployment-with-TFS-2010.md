@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Automated Deployment with TFS 2010
-comments: false
 tags: [Legacy, Patterns & Practices]
 published: true
 ---

@@ -5,7 +5,6 @@ subtitle: "How PRDs, TRDs, and ADRs became the lever for predictable delivery an
 date: 2026-06-03 00:00:00 -0400
 categories: [Software Engineering, AI]
 tags: [AI, Software Engineering, Productivity, Team Leadership, AI-Assisted Development]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/ai-dev-flow.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

@@ -5,7 +5,6 @@ title: "Microsoft Build 2025 Recap: What's New in AI and Developer Tools"
 date: 2025-05-23 08:00:00 -0400
 categories: [Artificial Intelligence, Software Engineering]
 tags: [Artificial Intelligence, Software Engineering, Microsoft Build, Azure, Developer Tools]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/ms-build-logo-2025.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

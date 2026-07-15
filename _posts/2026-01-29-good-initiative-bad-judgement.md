@@ -5,7 +5,6 @@ title: "Good Initiative, Bad Judgement"
 date: 2026-01-29 08:00:00 -0400
 categories: [Leadership, Software Engineering]
 tags: [Leadership, Decision Making, Software Engineering, Best Practices]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/will-rogers-on-judgement.jpg
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

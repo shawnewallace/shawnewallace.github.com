@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: Understanding Event-driven Architecture - Terminology and Implementation Differences
 subtitle: EDA - Key Concepts, Approaches, and Better Practices for Modern Systems
 author: Shawn Wallace

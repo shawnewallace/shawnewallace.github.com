@@ -5,7 +5,6 @@ subtitle: "How the development process gets encoded so agents actually follow it
 date: 2026-06-10 00:00:00 -0400
 categories: [Software Engineering, AI]
 tags: [AI, Software Engineering, Productivity, Team Leadership, AI-Assisted Development]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/instructions-are-the-process.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

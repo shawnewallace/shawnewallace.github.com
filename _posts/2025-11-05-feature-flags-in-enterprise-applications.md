@@ -5,7 +5,6 @@ title: "Designing with Confidence: Using Feature Flags in Enterprise Application
 date: 2025-11-05 08:00:00 -0400
 categories: [Software Architecture]
 tags: [Software Architecture, System Design]
-comments: true
 social-share: true
 full-width: true
 thumbnail-img: /assets/img/feature-flags.png

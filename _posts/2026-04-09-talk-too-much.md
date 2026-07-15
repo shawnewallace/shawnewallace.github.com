@@ -6,7 +6,6 @@ date: 2026-04-09 08:00:00 -0400
 categories: [leadership, architecture, ministry]
 description: "A Principal Architect and church elder reflects on listening, restraint, and the pressure to always have answers."
 tags: [listening, leadership, consulting, faith, architecture]
-comments: true
 social-share: true
 ---
 

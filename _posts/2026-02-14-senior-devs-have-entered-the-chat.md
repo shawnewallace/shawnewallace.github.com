@@ -5,7 +5,6 @@ title: "Senior Devs Have Entered the Chat"
 date: 2026-02-14 08:00:00 -0400
 categories: [Software Engineering, AI]
 tags: [AI, Software Engineering, Productivity, Vibe Coding, Vibe Engineering]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/senior-devs-entered-the-chat.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

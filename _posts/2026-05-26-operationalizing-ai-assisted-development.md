@@ -5,7 +5,6 @@ subtitle: "From individual wins to team capability"
 date: 2026-05-26 08:00:00 -0400
 categories: [Software Engineering, AI]
 tags: [AI, Software Engineering, Productivity, Team Leadership, AI-Assisted Development, Engineering Management]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/operationalizing-ai-assisted-dev.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

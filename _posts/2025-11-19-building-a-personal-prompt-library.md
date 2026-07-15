@@ -5,7 +5,6 @@ title: "Building a Personal Prompt Library: Enhancing Your AI Development Workfl
 date: 2025-11-19 08:00:00 -0400
 categories: [Artificial Intelligence, Software Engineering]
 tags: [Artificial Intelligence, Software Engineering, Prompt Engineering, Developer Tools, Productivity]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/prompt-library-introduction.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"

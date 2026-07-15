@@ -1,7 +1,6 @@
 ---
 layout: post
 title: State Management in .NET
-comments: false
 tags: [.NET, Architecture, Legacy]
 published: true
 ---

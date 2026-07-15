@@ -31,7 +31,6 @@ github_username:  shawnewallace
 linkedin_username: shawnwallace
 youtube_username: shawnewallace
 show_excerpts: true
-disqus: www-shawnewallace-com
 
 
 
@@ -160,7 +159,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:

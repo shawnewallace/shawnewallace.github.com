@@ -5,7 +5,6 @@ title: "AI Hackathon: Building the Future of Software Engineering"
 date: 2025-05-14 08:00:00 -0400
 categories: [Artificial Intelligence, Hackathon, Software Engineering]
 tags: [Artificial Intelligence, Hackathon, Software Engineering, Innovation]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/human-ai.png
 ---

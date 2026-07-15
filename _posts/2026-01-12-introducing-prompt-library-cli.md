@@ -5,7 +5,6 @@ title: "Introducing prompt-library CLI: Making AI Assistants More Accessible"
 date: 2026-01-12 08:00:00 -0400
 categories: [Artificial Intelligence, Software Engineering, Developer Tools]
 tags: [Artificial Intelligence, Prompt Engineering, Developer Tools, npm, Node.js, CLI Tools, Productivity]
-comments: true
 social-share: true
 thumbnail-img: /assets/img/prompt-library-introduction.png
 thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
