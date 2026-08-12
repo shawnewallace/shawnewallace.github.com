@@ -25,7 +25,8 @@ That token number used to be background noise — interesting, but easy to shrug
   <figcaption class="fig-caption">Same result, five times the cost...the difference is the design work spent up front</figcaption>
 </figure>
 
-The gap itself is worth talking about. But the headline, "custom beat generic," isn't the lesson I want people to walk away with. The lesson is underneath it: the gap only exists because *someone did design work in advance.* The Backlog Generator isn't fast because it's custom. It's fast because someone spent engineering time deciding what it should assume, what format it should output, and what it should never do, before a single participant ever typed a prompt.
+The gap itself is worth talking about. But the headline, "custom beat generic," isn't the lesson I want people to walk away with. The lesson is underneath it: the gap only exists because *someone did design work in advance.* The Backlog Generator isn't fast because it's custom. It's fast b
+ecause someone spent engineering time deciding what it should assume, what format it should output, and what it should never do, before a single participant ever typed a prompt.
 
 ## The Exercise, Concretely
 
