@@ -28,11 +28,11 @@ Under this definition, "agent" is a point on a spectrum, not a category you're e
 
 This is where it gets genuinely confusing, and GitHub Copilot is the clearest example I've got. This isn't one company's product versus another's — it's three different features from the *same* product, all called some version of "agent":
 
-**Agent Mode** is the one you sit in front of. Select "Agent" from the chat mode dropdown in VS Code and Copilot plans a multi-step task, edits files, runs terminal commands, and iterates on the results live, while you watch and can interrupt.
+**Agent Mode** is the one you sit in front of. Select "Agent" from the chat mode dropdown in VS Code and Copilot plans a multi-step task, edits files, runs terminal commands, and iterates on the results live, while you watch and can interrupt. The Copilot CLI gives you the same local, watch-and-steer loop in a terminal.
 
-**Coding agent** is the one you don't sit in front of. Assign it a GitHub issue and it works in the background, on GitHub's infrastructure, and comes back with a pull request, tests, and a self-review already done.
+**Cloud agent** (GitHub's docs now use this name; it launched as the "coding agent") is the one you don't sit in front of. Assign it a GitHub issue and it works in the background, on GitHub's infrastructure, and comes back with a pull request, tests, and a self-review already done.
 
-**Custom agents** are neither a mode nor a background worker. They're `.agent.md` files in `.github/agents/` — a name, a description, a tool allowlist, and a system prompt — that Copilot can delegate to as a subagent when it decides your specialist is the right one for the job. I wrote about the design work behind these in [Generic Agents Are a Tax](/2026-08-03-generic-vs-custom-agents/).
+**Custom agents** are neither a mode nor a background worker. They're `.agent.md` files in `.github/agents/` — a name, a description, a tool allowlist, and a system prompt — that Copilot (in the IDE or the CLI) can delegate to as a subagent when it decides your specialist is the right one for the job. I wrote about the design work behind these in [Generic Agents Are a Tax](/2026-08-03-generic-vs-custom-agents/).
 
 Three different things. Different autonomy levels, different execution environments, different mental models for the user, all sharing a name. If a teammate tells you "we should build an agent for this," you don't yet know whether they mean "let's give this task more autonomy" or "let's define a `.agent.md` file" or "let's use GitHub's background worker." Those are three different afternoons of work.
 
