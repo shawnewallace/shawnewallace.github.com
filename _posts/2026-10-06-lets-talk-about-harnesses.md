@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Let's Talk About Harnesses"
+subtitle: "Two teams can point the same model at the same kind of problem and get wildly different reliability, and the harness often matters as much as the model"
+date: 2026-10-06 08:36:16 -0400
+categories: [AI, Software Engineering]
+tags: [ai, agents, harness-engineering, coding-agents, software-engineering, claude-code, github-copilot]
+description: "A harness is everything around a model except its reasoning: the tools, the guides that steer it, the sensors that catch its mistakes, and the memory that persists between sessions. Examples from OpenAI's Codex team, Claude Code, GitHub Copilot, Stripe, and the consumer chat apps show how much that 'everything' varies."
+---
+
+I closed out [a recent post on agent terminology](/2026-08-12-lets-talk-about-agents/) with a fourth term that keeps showing up next to "agent" and means something else entirely: harness. Worth its own post: "harness" is a specific idea, not a synonym for "agent setup," and the gap between a good one and a bad one can be as large as the gap between models.
+
+## Agent equals model plus harness
+
+The shorthand comes from LangChain's [anatomy of an agent harness](https://blog.langchain.com/the-anatomy-of-an-agent-harness/): Agent = Model + Harness. The harness is everything except the model's actual reasoning — the execution loop, the tools it can call, the checks on what it produces, the decision about whether to try again or stop.
+
+The split exists because every call to an LLM is stateless. [Anthropic's Messages API is stateless by design](https://docs.anthropic.com/en/api/messages). You own the conversation history and resend it with every request, because the model has no memory between calls. OpenAI's Responses API can look stateful (`store: true`, resume with `previous_response_id`). But that's the vendor storing your context server-side and replaying it back; the model itself still sees only what is sent with each call. Left alone, a stateless model can't do anything that spans more than one turn. So reduce a harness to one sentence and it's this: **a harness decides what's in the model's context window for any given call.** Everything below is a variation on that.
+
+Birgitta Böckeler's [harness engineering](https://martinfowler.com/articles/harness-engineering.html) writeup for Thoughtworks gives the idea real vocabulary, and both halves of it turn out to be context management wearing different names. **Guides** (feedforward) are context added before the model acts: conventions, specs, reference docs. **Sensors** (feedback) are context added after: linters, test failures, review comments, fed back in for the next turn. Each can be **computational** (deterministic, cheap, run by a CPU — a type checker) or **inferential** (semantic, expensive, run by a model — an AI code reviewer). Böckeler's own words for the relationship: "engineering a user harness for a coding agent is a specific form of context engineering." Harness richness and autonomy are separate axes: autonomy is how much control you hand the model, and the harness is what determines how much you can trust what comes out.
+
+Böckeler also makes a point worth stealing: harnesses nest. There's the harness a vendor builds into their coding agent (system prompt, retrieval, orchestration), and there's the outer harness you build around it for your own repo. GitHub Copilot ships with a harness already inside it. Your `AGENTS.md`, your pre-commit hooks and your custom lints form a second harness wrapped around the first.
+
+## Memory is just delayed context
+
+A model has two sources it draws on directly: its weights, and whatever's in the current context window. That makes memory the same context-management job as everything above, just stretched across time instead of held within one call. "The agent remembers your preferences" describes the harness, not the model: it writes state to a file, then re-injects that file into context the next time it starts. `AGENTS.md` (the cross-vendor convention) and `CLAUDE.md` (Claude Code's own) are exactly this: a memory file the harness loads automatically at session start.
+
+The job also runs in reverse: trimming, not just adding. Context rot is what happens when a model gets worse as its context window fills up. Harnesses fight this with compaction (summarizing and offloading older context before it overflows) and tool-output offloading (keeping only the head and tail of a noisy tool result, writing the rest to disk where the model can fetch it back if needed). Deciding what stays, what gets summarized, and what gets evicted is as much the harness's job as deciding what goes in. You'll see this mechanism show up by name in a couple of the examples below.
+
+## The range, in practice
+
+The range, across products people actually use:
+
+**OpenAI's Codex team built the heaviest harness I've seen documented.** They [shipped an internal product with zero manually-written lines of code](https://openai.com/index/harness-engineering/), roughly a million lines, five months, a team that started at three engineers and grew to seven. A `docs/` directory serves as the system of record instead of one giant `AGENTS.md` — their words: "give Codex a map, not a 1,000-page instruction manual." A layered architecture keeps dependency directions enforced by custom linters and structural tests. A full observability stack is wired directly into the agent, so it can query its own logs and metrics with LogQL and PromQL. And a recurring "garbage collection" pass has background agents scan for architectural drift and open their own cleanup PRs. The team's own framing: **humans steer, agents execute**, and the engineering work moved almost entirely into the scaffolding.
+
+**Claude Code's harness is the most explicitly modular one I've seen a vendor document.** Anthropic breaks it into [seven distinct pieces](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more). `CLAUDE.md` handles always-on project memory; rules hold path-scoped constraints; skills are reusable procedures that stay out of context until actually invoked; subagents delegate work into their own isolated context window; hooks fire on lifecycle events (file edits, tool calls, session start) to run deterministic checks a model shouldn't be trusted to self-police; output styles and system-prompt appends handle finer control. Skills in particular are a direct answer to the context-rot problem from the last section: only the short description loads at session start, the full instructions load on demand.
+
+**GitHub Copilot's harness is split across the three product surfaces from [job two of the agents post](/2026-08-12-lets-talk-about-agents/).** The coding agent runs in an ephemeral cloud environment where it can execute tests and linters directly, and as of mid-2026 it does a self-review pass before ever opening the PR. Both the coding agent and Copilot's [code review](https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements) now read a repository's `AGENTS.md` automatically, the same convention OpenAI's Codex uses (Claude Code reads its own `CLAUDE.md`). Under the three product names, the harness does the same job: guides from `AGENTS.md`, sensors from CI plus a human reviewer.
+
+**Stripe's Minions run a lighter harness at higher volume.** Stripe's [homegrown coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) merge more than a thousand PRs a week. Its final sensor is a human: every change is reviewed before it merges, on top of CI runs. Speed comes from the front half of the loop (agents write start to finish, one-shot), not from removing the check at the end. That's a different bet than OpenAI's: trust the harness for generation, keep a human as the final gate.
+
+**Most of us are running something thinner than any of these.** An `AGENTS.md` file, whatever linters were already in CI, maybe a custom review prompt. Feedforward with almost no feedback, or the reverse. Böckeler's term for this is **harnessability**: not every codebase affords the same controls. A strongly typed language gives you type-checking as a sensor for free; a codebase with fuzzy module boundaries can't get architectural fitness checks nearly as cheaply. The harness you can build is partly a function of decisions made years before anyone was harnessing anything.
+
+## Where does a chat app fit into this?
+
+Everything above is a coding-agent harness, built for long-horizon work. The same vocabulary applies to the desktop and web chat apps most people actually use every day: ChatGPT, Claude, Microsoft 365 Copilot. They're harnesses too, just built for a different job.
+
+A chat app's harness stays turn-by-turn by design: a human reads every response and decides what happens next, so autonomy stays low no matter how good the harness gets underneath. That's the same axis split from the agents post: harness richness doesn't track autonomy at all. But real harness engineering still shows up in three places: tools (web search, code execution, file analysis), safety layers, and, increasingly this year, memory.
+
+All three now have dedicated memory systems. OpenAI's [Dreaming](https://openai.com/index/chatgpt-memory-dreaming/) (June 2026) curates memories from chat history into an evolving, editable summary. Claude's memory went free for all users on March 2, 2026, and it's a plain text file of inferred preferences and context that you can open and edit yourself. Microsoft 365 Copilot has had memory since 2025, and separately grounds its answers in a user's files, meetings, and email through Microsoft Graph. That's retrieval rather than memory, but it fills the same slot in the context window.
+
+Memories don't carry over automatically: what ChatGPT learns about you doesn't reach Claude (Claude does offer a memory import), and what Copilot learns about your working style stays inside Microsoft 365. It's the same mechanism as everywhere else in this post, state on disk re-injected into context, just kept per vendor instead of in a repo you control.
+
+## Why the range matters
+
+Put a scrappy harness and OpenAI's harness around the same model on the same class of task and I'd expect very different results, even though "agent" and "harness" apply equally well to both. It's the same trap as the vocabulary problem in the agents post: two people can say "we have an agent for that" and mean setups that aren't in the same league of trustworthiness.
+
+It also shows where OpenAI's effort went. The team didn't reach a million lines by prompting better. They built guides (the docs map, `AGENTS.md`), architectural constraints, sensors (linters, structural tests, an observability stack the agent could query), and a cleanup loop that runs without being asked.
+
+If "prompt engineering" was the 2023 skill, harness engineering (deciding what belongs in a model's context for any given call, and building the machinery that puts it there) looks like the one that compounds.
+
+Most of us are running a thinner harness than the ones above, and the next question is how to build the outer one so a whole team starts from the same prompt. That's its own post.
+
+---
+
+*Sources checked October 2026. Agent = Model + Harness framing, and the memory/context-rot mechanics, from [LangChain's anatomy of an agent harness](https://blog.langchain.com/the-anatomy-of-an-agent-harness/). Guides/sensors, computational/inferential, and the "harness engineering is a form of context engineering" framing from Birgitta Böckeler's [Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html) (Thoughtworks, April 2026). API statelessness from the [Anthropic Messages API](https://docs.anthropic.com/en/api/messages) and [OpenAI Responses API](https://platform.openai.com/docs/api-reference/responses) docs. Codex details from OpenAI's [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) (February 2026). Claude Code's component breakdown from Anthropic's [Steering Claude Code](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more) blog post. GitHub Copilot's coding agent from [GitHub Docs](https://docs.github.com/copilot/concepts/agents/coding-agent/about-coding-agent), and `AGENTS.md` support in code review from the [GitHub Changelog](https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements). Stripe Minions details from [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents) (February 2026). ChatGPT's Dreaming memory from [OpenAI's announcement](https://openai.com/index/chatgpt-memory-dreaming/) (June 2026); Claude's free-tier memory rollout (March 2, 2026) and Microsoft 365 Copilot's memory, grounded via Microsoft Graph, per contemporary reporting.*
