@@ -6,6 +6,8 @@ date: 2026-11-18 09:00:00 -0500
 categories: [AI, Software Engineering]
 tags: [ai, agents, harness-engineering, claude-code, teams]
 description: "Instructions, skills, hooks, and agents combine into most of the prompt before anyone types a word. Checked into the repo, they give a team a shared starting point."
+thumbnail-img: /assets/img/harnesses-for-teams.png
+thumbnail-dimensions: "width: 600px; max-width: 100%; height: auto;"
 ---
 
 This is a follow-on to [Let's Talk About Harnesses](/2026-10-06-lets-talk-about-harnesses/). That post laid out the vocabulary: a harness decides what's in the model's context window for any given call, split into an inner harness (what the vendor ships) and an outer harness (what you build around it). This one is about building the outer harness for a team instead of one developer at a time.
@@ -26,6 +28,11 @@ Logging token usage is a good example. Ask the model to summarize its usage at t
 ## What I've actually seen teams do
 
 I've watched client teams build over-engineered outer harnesses: layered rules files, a dozen custom agents, hooks wired into every lifecycle event, all before anyone on the team had shipped a meaningful amount of AI-assisted code. The harness is sophisticated and nobody has calibrated whether it's actually improving anything, because there's no baseline to compare it to. If you've never run the team without one, you can't tell whether a harness is earning its token cost or just adding ceremony.
+
+<figure class="post-figure">
+  <img src="/assets/img/harnesses-for-teams.png" alt="Two rows of the same five developers at laptops. In the top row, labeled Individual Setup, one developer glows with AI tool icons around him while the others look stuck. In the bottom row, labeled Team Setup, all five laptops connect to a glowing bar labeled Shared AI Harness and everyone is working comfortably." />
+  <figcaption class="fig-caption">Same team, same tools. The difference is where the setup lives.</figcaption>
+</figure>
 
 Often that elaborate harness lives in one person's dotfiles, not the repo. A hero dev builds a genuinely great personal setup, ships faster, and the rest of the team keeps typing three paragraphs of context into every prompt because none of it is checked in. That doesn't help the team; it just makes the gap between the hero dev's output and everyone else's more visible. The fix isn't asking them to slow down. It's asking what in their setup can move from the dotfiles into the repo. A hero dev raises the ceiling on their own output; a shared outer harness raises the floor under everyone else's. The floor is what moves a team's output.
 
