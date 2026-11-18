@@ -12,18 +12,22 @@ subtitle: "Principal Architect · AI Integration & Agentic Systems · Enterprise
 
 ## Summary
 
-Principal Architect with 30+ years building enterprise systems at scale — from a SaaS CRM platform serving 2,000+ organizations nationwide to production AI architectures on Azure AI Foundry today. Deep expertise in agentic AI systems, event-driven architecture, and cloud-native design. Proven ability to translate complex technical architecture into business outcomes and drive adoption of emerging technologies across large organizations. Equally effective as a practitioner, a client advisor, and a team enabler.
+Principal Architect with 30+ years building enterprise systems at scale — from a SaaS CRM platform serving 2,000+ organizations nationwide to production AI agent architectures on Microsoft Foundry and Amazon Bedrock today. Hands-on in designing agentic systems as engineered products: multi-agent orchestration, MCP tool integration, LLM pipelines, and the event-driven, cloud-native platforms they run on. Known for turning AI experimentation into repeatable engineering practice through client delivery, enterprise workshop programs, and conference talks on agent design and AI-assisted development. Equally effective as a practitioner, a client advisor, and a team enabler.
 
 ---
 
-## Core Competencies
+<details class="resume-collapsible" markdown="block">
+<summary>Core Competencies</summary>
 
 | AI & Agentic Systems | Architecture & Cloud | Languages & Tools |
 |---|---|---|
 | Agentic AI Systems & LLM Pipelines | Event-Driven Architecture (EDA/CQRS) | C#, Python, JavaScript, Go |
-| Azure AI Foundry & Semantic Kernel | Cloud-Native Design (Azure primary, AWS) | .NET / .NET Aspire / Teams AI Library |
-| Model Context Protocol (MCP) | Enterprise Integration & API Strategy | Workshop Design & Technical Enablement |
-| GitHub Copilot Enterprise Adoption | Multi-Team Technical Leadership · Executive Stakeholder Communication | |
+| Agent Engineering: Harnesses, Custom Agents & Skills | Cloud-Native Design (Azure primary, AWS) | .NET / .NET Aspire / Microsoft Teams SDK |
+| Microsoft Foundry & Amazon Bedrock (model self-hosting, function-hosted agents) | Enterprise Integration & API Strategy | Workshop Design & Technical Enablement |
+| Model Context Protocol (MCP) · Semantic Kernel | Multi-Team Technical Leadership · Executive Stakeholder Communication | |
+| Operationalizing AI-Assisted Development (GitHub Copilot, Claude Code) | | |
+
+</details>
 
 ---
 
@@ -35,9 +39,9 @@ Principal Architect with 30+ years building enterprise systems at scale — from
 Lead enterprise AI architecture and technical strategy across financial services, aviation, and insurance verticals. Serve as subject matter expert for AI service offerings and drive technology culture internally.
 
 **AI Integration & Agentic Systems**
-- Architected production LLM-based helpdesk triage system using fine-tuned GPT-4o-mini on Azure AI Foundry, featuring confidence-based routing, ITSM platform integration, and human review dashboard
+- Architected production LLM-based helpdesk triage system using a fine-tuned small language model on Microsoft Foundry, featuring confidence-based routing, ITSM platform integration, and human review dashboard
+- Operationalized AI-assisted development (GitHub Copilot, Claude Code) across client engineering teams — moving from scattered individual use to a shared team capability by standardizing tooling, managing instruction files, custom agents, skills, and MCP configurations as versioned engineering assets, encoding coding standards and ADRs into agent context, and keeping human-in-the-loop review in place as adoption scaled
 - Designed multi-agent orchestration frameworks using Semantic Kernel and Model Context Protocol (MCP) for enterprise client integrations, enabling AI-to-tool connectivity at scale
-- Championed AI-first development practices across client engagements, driving measurable adoption of AI-assisted workflows in architecture, code generation, and requirements extraction
 - Created and scaled enterprise AI development workshop program across Developer, BA, and Test Automation tracks in both .NET and Java editions — driving measurable adoption, not just awareness
 - Designed and facilitated cross-functional AI hackathons to rapidly evaluate competing solution approaches, build team AI skills, and drive alignment — accelerating both problem-solving and organizational readiness
 
@@ -132,7 +136,7 @@ Lead enterprise AI architecture and technical strategy across financial services
 
 | Category | Technologies |
 |---|---|
-| **AI / ML** | LLM Pipelines & Agentic Systems (Azure AI Foundry, Semantic Kernel, MCP, Teams AI Library), Copilot Platforms (GitHub Copilot, Microsoft Copilot Studio), Techniques (Agentic RAG, Multi-Agent Orchestration, fine-tuning, Azure AI Search) |
+| **AI / ML** | LLM Pipelines & Agentic Systems (Microsoft Foundry, Amazon Bedrock, Semantic Kernel, MCP, Microsoft Teams SDK), Copilot Platforms (GitHub Copilot, Microsoft Copilot Studio), Techniques (Agentic RAG, Multi-Agent Orchestration, function-hosted agents, model self-hosting, fine-tuning, Azure AI Search) |
 | **Event-Driven Architecture** | Patterns (Event Sourcing, CQRS, Event-Carried State Transfer, Outbox Pattern), Brokers (Kafka, RabbitMQ) |
 | **Cloud Platforms** | Azure (extensive), AWS (Solutions Architect), GCP (limited) |
 | **Languages** | C#, Python, JavaScript/TypeScript, T-SQL, Go |
@@ -144,12 +148,14 @@ Lead enterprise AI architecture and technical strategy across financial services
 
 ## Speaking & Publications
 
+- **Agents Are Products, Not Prompts: Engineering Principles for Effective AI Agents** — Beer City Code, Grand Rapids (August 2026)
+- **A Whirlwind Tour of AI Development Tooling** — full-day workshop, co-led with Michael Collier, Beer City Code (August 2026)
 - **Agentic-First with GitHub Copilot** — Global Azure Columbus (April 2026)
 - **Speaker** — CodeMash (multiple appearances)
 - **Speaker** — StirTrek (multiple appearances)
 - **Speaker** — Central Ohio .NET Developers Group
 - **Speaker** — Central Ohio Azure User Group
-- **Technical blog** — shawnewallace.com: AI integration, agentic development, event-driven architecture, prompt engineering
+- **Technical blog** — shawnewallace.com: agent design and harnesses, AI-assisted development, AI integration, event-driven architecture
 - **npm package** — prompt-library CLI: enterprise AI prompt management tooling
 
 ---

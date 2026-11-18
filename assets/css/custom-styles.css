@@ -185,3 +185,25 @@
 		margin-bottom: 1rem;
 	}
 }
+/* Collapsible resume sections (e.g., Core Competencies) */
+details.resume-collapsible {
+	margin: 1rem 0;
+}
+details.resume-collapsible > summary {
+	cursor: pointer;
+	font-size: 1.6rem;
+	font-weight: 800;
+	margin-bottom: 0.75rem;
+}
+details.resume-collapsible > summary::after {
+	content: " (show)";
+	font-size: 0.9rem;
+	font-weight: 400;
+	color: #888;
+}
+details.resume-collapsible[open] > summary::after {
+	content: " (hide)";
+}
+@media print {
+	details.resume-collapsible > summary::after { content: ""; }
+}
